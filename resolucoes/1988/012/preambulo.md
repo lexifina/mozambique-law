@@ -1,0 +1,5 @@
+# Preâmbulo
+
+Atinente a adesão da Republica Popular de Moçambique è Convenção Internacional sobre as Linhas de Carga de 1966 CONSELHO DE MINISTROS Decreto n.° 18/88 de 28 de Dezembro A interação do conjunto de medidas compreendidas no âmbito do Programa de Reabilitação Económica, em par ticular no caso da política de preços e do reajustamento da paridade monetária, bem como os sucessivos ajustamentos salariais, são factores que vem tornar notória a desactua lização dos actuais escalões de tributação do rendimento, elevando para níveis incomportáveis a carga fiscal que recai sobre o contribuinte.
+
+Os níveis de tributação actuais tornam-se assim insustentáveis, antes surgindo, cada vez mais, como motivadores de forte evasão fiscal e desincentivadores da actividade económica Tornando-se urgente a correcção desta situação, dando também cumprimento aos objectivos enunciados na Lei n° 8/88, de 21 de Dezembro, No uso das competências atribuídas pelo n° 1 do ar tigo 10 da Lei n° 3/87, de 19 de Janeiro, o Conselho de Ministros determina
