@@ -1,0 +1,6 @@
+# Preâmbulo
+A Luta Armada de Libertação Nacional, respondendo aos anseios seculares do nosso Povo, aglutinou todas as camadas patrióticas da sociedade moçambicana num mesmo ideal de liberdade, unidade, justiça e progresso, cujo escopo era libertar a terra e o Homem.
+Conquistada a Independência Nacional em 25 de Junho de 1975, devolveram-se ao povo moçambicano os direitos e as liberdades fundamentais.
+A Constituição de 1990 introduziu o Estado de Direito Democrático, alicerçado na separação e interdependência dos poderes e no pluralismo, lançando os parâmetros estruturais da modernização, contribuindo de forma decisiva para a instauração de um clima democrático que levou o país à realização das primeiras eleições multipartidárias.
+A presente Constituição reafirma, desenvolve e aprofunda os princípios fundamentais do Estado moçambicano, consagra o carácter soberano do Estado de Direito Democrático, baseado no pluralismo de expressão, organização partidária e no respeito e garantia dos direitos e liberdades fundamentais dos cidadãos.
+A ampla participação dos cidadãos na feitura da Lei Fundamental traduz o consenso resultante da sabedoria de todos no reforço da democracia e da unidade nacional.
