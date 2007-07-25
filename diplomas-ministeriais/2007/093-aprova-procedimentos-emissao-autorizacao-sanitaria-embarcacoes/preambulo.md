@@ -1,0 +1,5 @@
+# Preâmbulo
+
+de 25 de Julho O Regulamento de Inspecção e Garantia de Qualidade dos Produtos da Pesca, aprovado pelo Decreto n.º 17/2001, de 12 de Junho, estabelece os requisitos higiénicos, sanitários e de gestão da qualidade que regem as actividades de manuseamento, processamento, exportação e importação de produtos da pesca, com vista a garantir o cumprimento das exigências do mercado e uma melhor protecção da saúde do consumidor.
+
+Havendo necessidade de actualizar os procedimentos técnicos e de registo relativos à emissão de Autorização Sanitária para embarcações de operações conexas, embarcações de pesca semi-industrial congeladoras e a gelo, embarcações-fábrica e embarcações-fábrica a processar paradas no mesmo local, bem como verificar o seu funcionamento, e tendo em vista adoptar procedimentos administrativos comuns que assegurem uniformidade e conformidade dos mesmos com a legislação em vigor na área de Inspecção do Pescado, nos termos das disposições combinadas da alínea e) do n.º 2 do artigo 3 e da alína f) do artigo 4 todas do Decreto Presidencial n. º 6/2000, de 4 de Abril, determino:
