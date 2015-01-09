@@ -1,0 +1,3 @@
+# Preâmbulo
+
+de 9 de Janeiro Por Diploma Ministerial n.º 48/2013, de 24 de Maio, do Ministro das Pescas, foi introduzido o sistema de gestão da pescaria de arrasto de camarão através do controlo do esforço de pesca pelo Total Admissível de Esforço (TAE). Pelo que se torna-se necessário estabelecer a base do cálculo do valor da taxa de licença de pesca por metro de cabo mestre estabelecida pelo Despacho Conjunto dos Ministro das Finanças e das das Pescas de 30 de Janeiro de 2004, termos em que os Ministros das Finanças e das Pescas, ao abrigo do disposto no artigo 19 da Lei n.º 3/90, de 26 de Setembro, determinam:
