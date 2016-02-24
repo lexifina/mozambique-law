@@ -1,0 +1,3 @@
+# Preâmbulo
+
+de 24 de Fevereiro Havendo necessidade de criar Fundo Nacional de Desenvolvimento Sustentável de forma a adequá-lo ao novo contexto e paradigma de desenvolvimento sustentável que o país persegue e que assenta em três pilares, designadamente o ambiental, o económico e o social, ajustando a sua intervenção às novas atribuições e competências do sector de Terra, Ambiente e Desenvolvimento Rural, de modo a assegurar uma planificação estratégica que responda aos principais desafios do sector, bem como promover uma maior dinâmica no processo de desenvolvimento rural integrado e sustentável, ao abrigo do disposto no artigo 100, da Lei n.º 7/2012, de 8 de Fevereiro, o Conselho de Ministros decreta:
