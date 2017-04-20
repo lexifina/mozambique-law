@@ -1,0 +1,5 @@
+# Preâmbulo
+
+de 20 de Abril As entidades autorizadas a arbitrar câmbios em Moçambique têm fixado taxas de câmbio diferentes para uma mesma paridade de moedas, dependendo da natureza e finalidade da operação realizada, o que cria uma multiplicidade de cotações, comprometendo, desse modo, a transparência e credibilidade das taxas de câmbio praticadas no mercado cambial.
+
+Assim, mostrando-se necessário instituir o princípio da unicidade da taxa de câmbio, para garantir maior transparência e credibilidade das taxas de câmbio praticadas no mercado cambial, bem como estabelecer o procedimento metodológico para a fixação do diferencial (spread) máximo entre as taxas de compra e venda de moeda estrangeira, de modo a evitar interpretações divergentes e a ocorrência de distorções no mercado cambial, o Banco de Moçambique, no uso das competências que lhe são conferidas pela alínea a) do artigo 30 da Lei n.º 1/92, de 3 de Janeiro - Lei Orgânica do Banco, conjugada com o n.º 2 do artigo 130 do Decreto n.º 83/2010, de 31 de Dezembro – Regulamento da Lei Cambial, determina:
