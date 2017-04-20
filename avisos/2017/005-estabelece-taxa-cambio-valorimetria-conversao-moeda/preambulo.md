@@ -1,0 +1,3 @@
+# Preâmbulo
+
+de 20 de Abril Havendo necessidade de actualizar os critérios de determinação da taxa de câmbio de valorimetria utilizada pelas instituições de crédito e sociedades financeiras, na conversão para moeda nacional dos seus activos e passivos expressos em moeda estrangeira, em virtude da institucionalização da taxa de câmbio de referência do mercado cambial que altera os critérios anteriormente estabelecidos, o Banco de Moçambique, no uso das competências que lhe são conferidas pelo artigo 71 da Lei n.º 15/99, de 1 de Novembro – Lei das Instituições de Crédito e Sociedades Financeiras, determina:
