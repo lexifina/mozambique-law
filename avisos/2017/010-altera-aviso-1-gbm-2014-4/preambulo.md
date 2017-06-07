@@ -1,0 +1,3 @@
+# Preâmbulo
+
+de 7 de Junho Havendo necessidade de proceder à alteração do Aviso n.º 1/GBM/2014, de 4 de Junho, que aprova o regime jurídico de emissão e utilização de cartões bancários, para ajustar à evolução que se regista no domínio dos instrumentos de pagamento, o Banco de Moçambique, no uso das competências que lhe são conferidas pelas disposições conjugadas do n.º 4 do artigo 17 da Lei n.º 2/2008, de 27 de Fevereiro – Lei do Sistema Nacional de Pagamentos, do artigo 118 e da alínea a) do artigo 119, ambos do Regulamento da Lei das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto n.º 56/2004, de 10 de Dezembro, determina:
