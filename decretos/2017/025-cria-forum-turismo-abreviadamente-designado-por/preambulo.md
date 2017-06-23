@@ -1,0 +1,3 @@
+# Preâmbulo
+
+de 23 de Junho Havendo necessidade de estabelecer uma plataforma de consulta do Governo na coordenação da implementação das políticas que concorrem para o desenvolvimento do turismo, dado o carácter transversal que lhe é subjacente, bem como de assegurar a realização de acções conjuntas que flexibilizem a tomada de medidas visando melhorar as condições para o desenvolvimento do turismo, ao abrigo do disposto nos artigos 5 e 29 da Lei n.° 4/2004, de 17 de Junho, Lei do Turismo, conjugados com a alínea f) do n.º 1 do artigo 204 da Constituição da República, o Conselho de Ministros decreta:
