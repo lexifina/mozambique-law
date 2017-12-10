@@ -1,0 +1,3 @@
+# Preâmbulo
+
+de 11 de Setembro Havendo necessidade de rever o Regulamento da Lei n.º 11/2009, de 11 de Março, Lei Cambial, aprovado pelo Decreto n.º 83/2010, de 31 de Dezembro, de modo a permitir o exercício da função de Autoridade Cambial da República pelo Banco de Moçambique, nos termos previstos no n.º 5 do artigo 143 da Constituição da República e do artigo 28 da Lei n.º 1/92, de 3 de Janeiro, que define a natureza, os objectivos e funções desta instituição, o Conselho de Ministros, no uso das competências que lhe são conferidas pela alínea f) do n.º 1 do artigo 204 da Constituição da República, decreta:
