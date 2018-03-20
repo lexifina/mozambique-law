@@ -1,0 +1,193 @@
+# Aprovação, promulgação e assinaturas
+
+Assinado..........................................
+
+(Assinatura da pessoa autorizada) Local................................................
+
+Data.................................................
+
+(Selo ou carimbo da autoridade, conforme apropriado) Verificação adicional Assinado..........................................
+
+(Assinatura da pessoa autorizada) Local...............................................
+
+Data................................................
+
+(Selo ou carimbo da autoridade, conforme apropriado) Verificação adicional Assinado.........................................
+
+(Assinatura da pessoa autorizada) Local...............................................
+
+Data................................................
+
+(Selo ou carimbo da autoridade, conforme apropriado) __________________________________ *Esta parte do certificado deverá ser adaptada pela Administração para indicar se foram estabelecidas verificações adicionais, conforme previsto na sessão 19.1.1.4 ANEXO X Verificação Adicional de Acordo Com o Previsto na Secção A/19.3.7.2 do Código ISPS Isto é Para Certificar que em uma verificação adicional requerida pela sessão 19.3.7.2 da parte a do Código ISPS verificou-se que o navio cumpre com disposições relevantes do capítulo XI-2 da Convenção e com a parte A do Código ISPS.
+
+Assinado ........................................
+
+(Assinatura da pessoa autorizada) Local.................................................
+
+Data..................................................
+
+(Selo ou carimbo da autoridade, conforme apropriado) Endosso Para Estender o Certificado Caso Este Seja Válido Por Menos de 5 Anos, nos Casos Em que as Disposições da Secção A/19.3.3 do Código ISPS Sejam Aplicáveis O navio cumpre com as disposições relevantes da parte A do Código ISPS e o Certificado deverá, de acordo com a sessão
+
+19.3.3 da parte A do Código ISPS, ser aceito como válido até .....................................................
+
+Assinado.........................................
+
+(Assinatura da pessoa autorizada) Local...............................................
+
+Data................................................
+
+(Selo ou carimbo da autoridade, conforme apropriado) Endosso Quando a Verificação de Renovação Tiver Sido Concluida E A Secção A/19.3.4 do Código ISPS For Aplicável O navio cumpre com as disposições relevantes da parte A do Código ISPS e o Certificado deverá, de acordo com a sessão
+
+19.3.4 da parte A do Código ISPS, ser aceito como válido até .....................................................
+
+Assinado.........................................
+
+(Assinatura da pessoa autorizada) Local...............................................
+
+Data................................................
+
+(Selo ou carimbo da autoridade, conforme apropriado) ANEXO XI Endosso Para Estender a Validade do Certificado Até Que o Navio Chegue A Um Porto Para Verificação, Nos Casos Em Que as Disposições da Secção A/19.3.5 do Código ISPS Sejam Aplicáveis, Ou Por Um Período de Tolerância, nos Casos Em Que as Disposições da Secção A/19.3.6 do Código ISPS Sejam Aplicáveis ESTE Certificado devera, de acordo com a sessão 19.3.5 /
+
+19.3.6* da parte A do código ISPS, ser aceito como valido até ...........................................
+
+Assinado.........................................
+
+(Assinatura da pessoa autorizada) Local...............................................
+
+Data................................................
+
+(Selo ou carimbo da autoridade, conforme apropriado) Endosso Para Antecipação da Data de Validade, nos Casos Em Que As Disposições Da Secção A/19.3.7 do Código ISPS Sejam Aplicáveis De acordo com a sessão 19.3.7 da parte A do Código ISPS, a nova data de validade** e .............................................
+
+Assinado.........................................
+
+(Assinatura da pessoa autorizada) Local...............................................
+
+Data................................................
+
+(Selo ou carimbo da autoridade, conforme apropriado) _______________________ *eliminar conforme apropriado ** Caso se complete esta parte do Certificado, a data de validade mostrada na frente do certificado também deverá ser emendada.
+
+ANEXO XII Apêndice 2 Modelo de Certificado Internacional Provisório de Protecção do Navio Certificado Internacional Provisório de Protecção do Navio (Selo Oficial) (País) Certificado No. Emitido de acordo com as disposições do Código internacional para a protecção de navios e instalações portuárias (Código ISPS) Sob a atenção do Governo de ____________________________ (nome do Pais) por ______________________________________________ (pessoa ou organização autorizada) Nome do navio : .......................................................................
+
+Letras ou números distintivos : ..................................................
+
+Porto de registo : ......................................................................
+
+Tipo de navio : .........................................................................
+
+Tonelagem de arqueação bruta : ...........................................
+
+Numero IMO : .........................................................................
+
+Nome e endereço da Companhia : ..........................................
+
+E este certificado provisório subsequente ou consecutivo a outro certificado? Sim/ Não* Caso positivo, data de emissão do certificado provisório inicial ...............................................
+
+Isto é Para Certificar Que os requisitos da sessão A/19.4.2 do Código ISPS foram cumpridos.
+
+Este Certificado e emitido de acordo com a sessão A/19.4 do Código ISPS. Este Certificado e valido até ....................................................................................
+
+Emitido em ..............................................................................
+
+(local de emissão do certificado) Data de emissão ................................. .......................................................
+
+(assinatura da pessoa autorizada a emitir o Certificado) (selo ou carimbo da autoridade eminente, conforme apropriado) _________________________ * Eliminar conforme apropriado ANEXO XIII Apêndice à Parte B Apêndice 1 Modelo de uma Declaração de Protecção entre o navio e a instalação portuárias Declaração de Protecção Nome do Navio:
+
+Porto de Registo:
+
+Numero IMO:
+
+Nome da Instalação Portuária:
+
+Esta Declaração de Protecção e válida a partir de ..................... até ............................., para as seguintes actividades ........................................................................................
+
+(lista de actividades incluindo os detalhes relevantes) Sob os seguintes níveis de protecção Nível (is) de protecção para o navio:
+
+Nível (is) de protecção para a instalação portuária:
+
+A instalação portuária e o navio concordam com as seguintes medidas de protecção e responsabilidade para assegurar o cumprimento aos requisitos da Parte A do Código Internacional para a Protecção de Navios e Instalações Portuárias.
+
+A colocação das iniciais do SSO ou PFSO nestas colunas indica que a actividade será executada, de acordo com o plano relevante aprovado, por Actividade A instalação portuária O navio Assegurar a execução de todos os deveres relativos a protecção Monitorar áreas de acesso restrito para garantir que somente pessoas autorizadas tenham acesso as mesmas Controlar o acesso a instalações portuárias Controlar o acesso ao navio Monitorar a instalação _________________________ *este formulário modelo de Declaração de Protecção e para utilização entre um navio e uma instalação portuária caso a Declaração de Protecção cubra dois navios, este modelo deve ser modificado adequadamente.
+
+Portuária, incluindo áreas de atracação e áreas em volta do navio Monitorar o navio, incluindo áreas de atracação e áreas em volta do navio Manusear a carga Entrega de provisões do navio Manusear bagagem desacompanhada Controlar o embarque de pessoas e de seus pertences A s s e g u r a r q u e informações relativas a protecção estejam p r o n t a m e n t e disponíveis entre o navio e a instalação portuária As partes a este acordo certificam que as medidas e acções relativas a protecção para a instalação portuária e para o navio tomadas durante as actividades especificadas atendem as disposições do navio XI-2 e da parte A deste Código, as quais serão implementadas de acordo com as disposições já estipuladas em seu plano de protecção aprovada ou nos arranjos específicos acordados e descritos no anexo.
+
+Feito em .......................................................... no dia....................................................................
+
+Assinado para e em nome Da instalação portuária: Do navio:
+
+(Assinatura do PFSO) (Assinatura do Comandante ou do SSO) Nome e titulo da pessoa que assinou Nome: Nome:
+
+Titulo: Titulo:
+
+Dados para contacto (a ser completado, conforme apropriado) (indicar os números de telefone ou os canais de rádio ou frequências a serem utilizados) Para a instalação portuária: Para o navio:
+
+Instalação Portuária Comandante:
+
+ANEXO XIV PFSO SSO CSO ––––––––––––––––––––––––––––––– Apêndice 2 Modelo de uma Declaração de Cumprimento de uma Instalação Portuária Declaração de Cumprimento de Uma Instalação Portuária (selo oficial) (Pais) Número da Declaração Emitido de acordo com as disposições da Parte B do Código Internacional Para a Protecção de Navios e Instalações Portuárias (Codigo ISPS) O Governo de ______________________________________ (nome do Pais) Nome da Instalação Portuária:...............................................
+
+Endereço da Instalação Portuária: ..............................................
+
+ISTO É PARA CERTIFICAR que o cumprimento desta instalação portuária, as disposições do capítulo XI-2 e da Parte A do Código Internacional para a Protecção de Navios e Instalações Portuárias (código ISPS) foi verificado e que esta Instalação portuária opera de acordo com o Plano de Protecção da Instalação Portuária aprovado. Este Plano foi aprovado para o seguinte (especificar os tipos de operações, tipos de navios ou actividades ou outros dados relevantes) (eliminar conforme apropriado):
+
+Navio de Passageiros Embarcação de Passageiros de Alta Velocidade Embarcação de Carga de Alta Velocidade Graneleiro Petroleiro Navio Químico Gaseiro Unidades Móveis de Perfuração ao largo da costa Navio de Carga diferente dos mencionados acima Esta declaração de cumprimento e valida até ........................................., sujeita a verificações (conforme indicado na página seguinte) Emitido em...................................... .............................................................. (local de emissão da declaração) Data de emissão ...................................... ..................................................................
+
+(Assinatura do funcionário devidamente . autorizado que esta emitindo o documento) (Selo ou carimbo da autoridade eminente, conforme apropriado) Endosso Para Verificações O Governo de (inserir nome do Pais) determinou que a validade desta declaração de cumprimento esta sujeita a (inserir os detalhes relevantes das verificações (i.e anual obrigatória ou não programada) Isto e Para Certificar que, durante a verificação realizada de acordo com o parágrafo B/16.62.4 do Código ISPS, verificou- -se que a instalação portuária cumpre com as disposições relevantes do capítulo XI-2 da Convenção e com a Parte A do Código ISPS.
+
+1.ª Verificação Assinado.........................................
+
+(Assinatura da pessoa autorizada) Local...............................................
+
+Data................................................
+
+2.ª Verificação Assinado.........................................
+
+(Assinatura da pessoa autorizada) Local...............................................
+
+Data................................................
+
+3.ª Verificação Assinado.........................................
+
+(Assinatura da pessoa autorizada) Local...............................................
+
+Data................................................
+
+4.ª Verificação Assinado.........................................
+
+(Assinatura da pessoa autorizada) Local...............................................
+
+Data................................................
+
+ANEXO XV Declaração de Conformidade da Instalação Portuária (Statement of Compliance of Port Facility) Comité de Protecção (Port Facility) Declaração N.º 00/DECO/MP/00 (Statement Nr.) Emitida nos termos do disposto na Parte B do Código Internacional de Segurança dos Navios E das Instalações Portuárias (Código ISPS) (Issued under the provisions of the Part B of the International Code for security of ships and Port Facility (ISPS CODE)) O Governo da República de Moçambique (The Government of Republic of Mozambique) Nome da Instalação Portuária:
+
+(Name of the Port Facility) Endereço da Instalação Portuária: Longitude: Latitude:
+
+(Adress of the Port Facility) Certifica-Se que, a conformidade da presente Instalação Portuária com as disposições do Capítulo XI 2 e da Parte A do Código Internacional de Segurança dos Navios e das Instalações Portuárias (Código ISPS) foi verificada e que a instalação portuária funciona de acordo com o plano de segurança aprovado. O plano foi aprovado para:
+
+(This is to certify that, the compliance of this port facility with the provisions of chapter XI-2 and part A of the International Code for the Security of Ships and Port Facilities (ISPS) has been verified and that this Port Facility operates in accordance with the approved Port Facility Security Plan. The Plan has been approved for the following:
+
+Navio:
+
+(Ships):
+
+Navio:
+
+Ships A presente declaração de conformidade é válida até 00/00/00, sob reserva das verificações (indicadas no verso) (This statement of compliance is valid until: 00/00/00), Subject to verifications as indicated bellow) Emitida em:
+
+(Issued at) Data de emissão 06./03/ 2013.
+
+(Date of issue) O Director Geral do INAMAR __________________________ O funcionário devidamente autorizado (Signature of the duly Authorized Official) ANEXO XVI Verificações para Averbamentos (Verifications for Endorsement ) O Governo da República de Moçambique estabeleceu que a validade da presente declaração de conformidade está sujeita a verificações anuais obrigatórias (The Government of the Republic of Mozambique has established that the validity of this Statement of Compliance is subject to mandatory annual verifications) Certifica-Se que, numa verificação efectuada em conformidade com o disposto no parágrafo B/16.62.4 do Código ISPS, se comprovou que a Instalação Portuária satisfaz as disposições pertinentes do Capítulo XI-2 da Convenção e da Parte A do Código ISPS.
+
+This Is To Certify that, during a verification carried out in accordance with the paragraph B/16.62.4 of the ISPS Code, the Port Facility was found to comply with the relevant provisions of chapter XI-2 of the Convention and Part A of the ISPS Code.
+
+1.ª Verificação 1st Verification Assinado ………………………………… ..................
+
+(Assinatura do funcionário autorizado) (Signature of the authorized Official) Local:
+
+(Place) Data: ..../..........................
+
+2.ª Verificaçao 2nd Verification Assinado ………………………………… (Assinatura do funcionário autorizado) (Signature of the Authorized Official) Local (Place) Data : ...../......./ (Date)
+
+3.ª Verificação 3rd Verification Assinado ………………………………… (Assinatura do funcionário autorizado) (Signature of Authorized Official) Local: Maputo (Place):
+
+Data: ..../......./ (Date:..../....../) (Signature of the Authorized
+
+4.ª Verificação Official) 4th Verification Local: Maputo Assinado ………………………………… (Place) (Assinatura do funcionário Data:..../...../ autorizado) (Date:.../...../ ) Preço — 63,00 MT IMPRENSA NACIONAL DE MOÇAMBIQUE, E.P.
