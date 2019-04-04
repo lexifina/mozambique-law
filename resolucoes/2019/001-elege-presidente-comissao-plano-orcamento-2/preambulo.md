@@ -1,0 +1,3 @@
+# Preâmbulo
+
+de 4 de Abril Havendo necessidade de preencher a vaga de Presidente da Comissão do Plano e Orçamento – 2.ª Comissão, à luz do estatuído no n.º 1, do artigo 75 do Regimento da Assembleia da República, aprovado pela Lei n.º 17/2013, de 12 de Agosto, alterada e republicada pelas Leis n.°s 13/2014, de 17 de Junho e 12/2016, de 30 de Dezembro, em virtude da suspensão do mandato do Deputado Eneas da Conceição Comiche, nos termos da alínea b), do n.º 1, do artigo 7 do Estatuto, Segurança e Previdência do Deputado, aprovado pela Lei n.º 31/2014, de 30 de Dezembro, a Assembleia da República determina:
