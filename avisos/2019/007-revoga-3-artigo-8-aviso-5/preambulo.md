@@ -1,0 +1,3 @@
+# Preâmbulo
+
+de 27 de Maio Havendo necessidade de harmonizar o regime de dedução dos excessos dos limites prudenciais à concentração de riscos introduzidos pelo Aviso n.º 5/GBM/2018, de 6 de Junho, com o estatuído na alínea c) do n.º 4 do artigo 8 do Aviso n.º 8/ GBM/2017, de 2 de Junho, que aprova o Regulamento de Fundos Próprios das Instituições de Crédito, o Banco de Moçambique, no uso da competência que lhe é conferida pelo artigo 64 da Lei n.º 15/99, de 1 de Novembro, com as alterações da Lei n.º 9/2004, de 21 de Julho – Lei das Instituições de Crédito e Sociedades Financeiras, determina:
