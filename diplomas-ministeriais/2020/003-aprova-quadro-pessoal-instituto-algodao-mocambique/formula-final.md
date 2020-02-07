@@ -1,0 +1,5 @@
+# Aprovação, promulgação e assinaturas
+
+Aprovado pelo Ministério da Administração Estatal e Função Pública, aos 24 de Julho de 2019. — A Ministra, Carmelita Rita Namashulua.
+
+Quadro de Pessoal do Instituto Funções e Carreiras GDG S (WPÁÐGU FG &KTGEÁºQ %JGſC G %QPſCPÁC Director-Geral 1 Director-Geral Adjunto 1 Director de Serviço Central 0 Chefe de Departamento Central Autónomo 0 Chefe de Departamento Central 0 Chefe de Repartição Central 0 Chefe da Secretaria Central 0 Secretário Executivo 1 Subtotal 3 Carreiras de Regime Geral Especilaista 0 Técnico Superior N1 0 6ÃEPKEQ 2TQſUUKQPCN FG #FOKPKUVTCÁºQ 2ÕDNKEC 0 6ÃEPKEQ 2TQſUUKQPCN 0 Técnico 1 Assistente Técnico 0 Auxiliar Administrativo 0 Agente de Serviço 1 Auxiliar 0 Subtotal 2 %CTTGKTCU 'URGEÈſECU Técnico Superior Agro-Pecuária N1 0 6ÃEPKEQ 2TQſUUKQPCN #ITQ 2GEW¶TKC 0 Assistente Técnico Agro-Pecuária 0 Subtotal 0 Carreiras de Regime Especial Não Diferenciadas Técnico Superior de Tecnologias de Informação e Comunicação N1 6ÃEPKEQ 2TQſUUKQPCN FG 6GEPQNQIKCU FG +PHQTOCÁºQ e Comunicação Subtotal 0 Total Geral 10
