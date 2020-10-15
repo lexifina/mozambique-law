@@ -1,0 +1,3 @@
+# Preâmbulo
+
+de 14 de Outubro *CXGPFQ PGEGUUKFCFG FG RTQEGFGT C ſZCÁºQ G CRTQXCÁºQ das quotas de abate e de apanha de ovos de crocodilos, ao abrigo do disposto no n.º 2, do artigo 28, da Lei n.º 16/2014, de 20 de Junho, alterada e republicada pela Lei n.º 5/2017, de 11 de Maio, conjugado com os n.º 1 e 2, do artigo 12, do 4GIWNCOGPVQ FG %CÁC CRTQXCFQ RGNQ &GETGVQ P  FG FG &G\GODTQ Q /KPKUVTQ FC 6GTTC #ODKGPVG G &GUGPXQNXKOGPVQ Rural, determina: #TVKIQ 5ºQ CRTQXCFCU CU SWQVCU FG CDCVG G CRCPJC FG QXQU FG ETQEQFKNQU RCTC C ÃRQEC XGPCVÎTKC GO CPGZQ CQ RTGUGPVG &KRNQOC G SWG FGNG HC\ RCTVG KPVGITCPVG
