@@ -1,0 +1,3 @@
+# Preâmbulo
+
+de 4 de Outubro Havendo necessidade de se adoptar as normas para a gestão, uso e ordenamento da zona costeira e das praias do País, incluindo a conservação dos ecossistemas sensíveis, a manutenção da ordem pública, a prevenção de acidentes, o combate à erosão costeira, a prevenção e combate a poluição marinha e a resiliência às mudanças climáticas, bem como o exercício de actividades económicas, sociais, culturais, desportivas, lúdico-recreativas e religiosas, de forma ambientalmente segura, nos termos das disposições combinadas dos números 2 e 3, do artigo 22, e do artigo 96 da Lei n.º 20/2019, de 8 de Novembro, Lei do Mar, o Conselho de Ministros decreta:
