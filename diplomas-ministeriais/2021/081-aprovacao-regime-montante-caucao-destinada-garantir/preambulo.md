@@ -1,0 +1,3 @@
+# Preâmbulo
+
+de 24 de Agosto Havendo necessidade de definir os requisitos para a prestação da caução destinada a garantir a manutenção das condições físicoquímicas e biológicas do meio marinho e a assegurar, quando aplicável, a remoção de obras e ou estruturas móveis e ou fixas incorporadas na área ou no volume afectos ao título, ao abrigo do disposto na alínea b ) do n.º 1 do artigo 92 do Regulamento que Estabelece o Regime Jurídico de Utilização Privativa do Espaço Marítimo Nacional aprovado pelo Decreto n.º 21/2017, de 24 de Maio, os Ministros do Mar, Águas Interiores e Pescas e da Economia e Finanças determinam:
