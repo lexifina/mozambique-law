@@ -1,0 +1,3 @@
+# Preâmbulo
+
+de 25 de Janeiro Havendo necessidade de definir a estrutura interna das unidades orgânicas do Ministério das Obras Públicas, Habitação e Recursos Hídricos e as respectivas funções, ao abrigo do disposto no n.º 3 do artigo 15 do Decreto n.º 12/2015, de 10 de Junho, que estabelece as normas e critérios gerais de organização dos Ministérios, conjugado com o artigo 2 da Resolução n.º 42/2020, de 7 de Dezembro, que aprova o Estatuto Orgânico do Ministério, o Ministro das Obras Públicas, Habitação e Recursos Hídricos ouvido os Ministros que superintendem a área da Função Pública e das Finanças, determina:
