@@ -1,0 +1,3 @@
+# Preâmbulo
+
+de 16 de Junho Havendo necessidade de definir os procedimentos para a fixação do preço de referência, com vista a estabelecer o valor do produto mineiro, para efeitos de determinação da base tributável em sede do Imposto sobre a Produção Mineira, de acordo com o previsto no n.º 3 do artigo 11 do Regime Específico de Tributação e de Benefícios Fiscais para Actividade Mineira aprovado pela Lei n.º 28/2014, de 23 de Setembro, alterada e republicada pela Lei n.º 15/2017, de 28 de Dezembro, ao abrigo do n.º 5 do artigo 4 do Decreto n.º 28/2015, de 28 de Dezembro, que aprova o Regulamento do Regime Específico de Tributação e de Benefícios Fiscais para a Actividade Mineira, os Ministros da Economia e Finanças e dos Recursos Minerais e Energia determinam:
