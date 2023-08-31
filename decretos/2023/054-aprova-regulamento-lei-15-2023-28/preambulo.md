@@ -1,0 +1,3 @@
+# Preâmbulo
+
+de 31 de Agosto Havendo necessidade de se regulamentar a Lei n.º 15/2023, de 28 de Agosto, que estabelece o Regime Jurídico Específico Aplicável à Prevenção, Repressão e Combate ao Terrorismo, Proliferação de Armas de Destruição em Massa e acções conexas, aos actos e organizações terroristas, bem como às medidas restritivas aprovadas pelas Resoluções do Conselho de Segurança das Nações Unidas, com vista a adequar os desafios da conjuntura e à conformidade legal no plano nacional e internacional, o Conselho de Ministros, no uso das competências que lhe são conferidas pelo artigo n.º 66 da mesma Lei, decreta:
