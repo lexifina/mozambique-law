@@ -1,0 +1,3 @@
+# Preâmbulo
+
+de 10 de Janeiro Havendo necessidade de se proceder à implementação do Programa Nacional Industrializar Moçambique (PRONAI), que tem em vista promover maior dinamização ao processo de industrialização, através da modernização e diversificação, promoção de investimentos e aumento da competitividade industrial, face aos desafios de maior uso de matéria-prima local para o aumento da produção industrial, maior consumo de produtos nacionais e redução da exportação em bruto e ao abrigo do disposto no artigo n.˚ 2 da Resolução n.º 52/2021, de 21 de Outubro, o Ministro da Indústria e Comércio determina:
