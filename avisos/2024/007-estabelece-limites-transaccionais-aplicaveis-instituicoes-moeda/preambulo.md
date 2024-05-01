@@ -1,0 +1,3 @@
+# Preâmbulo
+
+de 1 de Abril Havendo necessidade de orientar a actuação das instituições de moeda electrónica e reforçar as medidas de prevenção e combate ao branqueamento de capitais, financiamento do terrorismo e da proliferação de armas de destruição em massa, tendo em conta as boas práticas internacionais, o Banco de Moçambique, no uso das competências que lhe são conferidas pela alínea e) do n.º 2 do artigo 56 da Lei n.º 14/2023, de 28 de Agosto, Lei de Prevenção e Combate ao Branqueamento de Capitais, Financiamento do Terrorismo e da Proliferação de Armas de Destruição em Massa, determina:
