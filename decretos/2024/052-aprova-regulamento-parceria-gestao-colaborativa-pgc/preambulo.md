@@ -1,0 +1,3 @@
+# Preâmbulo
+
+de 18 de Julho Havendo necessidade de definir as regras para o estabelecimento de Parceria de Gestão Colaborativa (PGC), entre o sector público e privado, organizações da sociedade civil e comunidades locais, para a gestão das áreas de conservação num modelo de parceria sem fins lucrativos para o seu desenvolvimento sustentável, ao abrigo do artigo 9 conjugado com o artigo 68, ambos da Lei n.º 16/2014, de 20 de Junho – Lei da Protecção Conservação e Uso Sustentável da Diversidade Biológica, alterada e republicada pela Lei n.º 5/2017, de 11 de Maio, o Conselho de Ministros decreta:
