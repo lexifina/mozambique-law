@@ -1,0 +1,3 @@
+# Preâmbulo
+
+de 21 de Novembro Tendo em vista a assegurar a preservação dos recursos pesqueiros, e face á necessidade de estabelecimento, no Banco de Sofala (abrangendo as zonas costeiras das províncias de Sofala, Zambézia e Nampula), e no distrito de Govuro, na província de Inhambane, o período de veda para as pescarias artesanais de camarão de superfície para o ano de 2024/2025, ao abrigo do disposto no n.º 1 do artigo 14 da Lei n.º 22/2013, de 01 de Novembro – Lei das Pescas, conjugado com as disposições do artigo 14 e da alínea g) do n.º 1 do artigo 15, ambos do Decreto n.º 89/2020, de 8 de Outubro, que aprova o Regulamento da Pesca Marítima, determino:
