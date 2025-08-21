@@ -1,0 +1,3 @@
+# Preâmbulo
+
+Concede ao lnstituto Nacional do Turismo, IP (INA TUR, IP.) o direito de conceber, desenvolver e negociar um empreendimento turistico na Ilha Santa Carolina,junto ao Parque Nacional do Arquipelago de Bazaruto, Provfncia de Inhambane e revoga a ResoluQiio n.0 68/2021, de 31 de Dezembro. •••••••••••••••••••••••••••••••• CONSELHO DE MINISTROS Resolu~ao n.0 25/2025 de 21 de Agosto Tornando-se necessario o aproveitamento econ6mico do potencial turfstico da Ilha Santa Carolina, junto ao Parque Nacional do Arquipelago de Bazaruto, Provincia de Inhambane, por via do estabelecimento de parecerias publico privadas, e ao abrigo do disposto na alinea /) do n.0 1 do artigo 203, da Constitui9ao da Republica, o Conselho de Ministros determina:
