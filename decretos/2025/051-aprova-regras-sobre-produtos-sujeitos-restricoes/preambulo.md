@@ -1,0 +1,3 @@
+# Preâmbulo
+
+de 29 de Dezembro Havendo necessidade de uma gestão eficaz das reservas cambiais disponíveis, priorizando a importação de bens essenciais, e tendo em conta que determinados produtos actualmente importados são igualmente produzidos em território nacional, em quantidade e qualidade sufi cientes para satisfazer a procura interna, nos termos do disposto na alínea g) do n.º 1 do artigo 203 da Constituição da República de Moçambique, em conformidade com o artigo 3 da Lei n.º 17/2022, que aprova o Texto da Pauta aduaneira, e com os compromissos assumidos por Moçambique no âmbito do Acordo Geral sobre Pautas Aduaneiras e Comércio (GATT 1994) e da Organização Mundial do Comércio (OMC), o Conselho de Ministros decreta:
