@@ -1,0 +1,3 @@
+# Preâmbulo
+
+Aprova o Programa Nacional de Desenvolvimento Cooperativo, abreviadamente designado por PNDC. - BR 185 CONSELHO DE MINISTROS Resolução n.º 78/2026 de 29 de Setembro Havendo necessidade de dotar o Governo de um programa que visa responder aos anseios de desenvolvimento da economia nacional através do aumento da produção e produtividade baseado na organização da base produtiva promovendo o desenvolvimento inclusivo e sustentável de Moçambique, por intermédio da adopção do modelo cooperativo, ao abrigo do disposto na alínea f) do n.º 1 do artigo 203 da Constituição da República, o Conselho de Ministros determina:
