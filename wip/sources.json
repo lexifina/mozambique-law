@@ -1,0 +1,12 @@
+{
+ "note": "Every URL parse.py reads; `python -X utf8 fetch.py --all` fetches whatever is not cached yet.",
+ "documents": [
+  {"url": "https://www.parlamento.mz/wp-content/uploads/2022/06/Constituicao-da-Republica.pdf", "use": "CRM 2004 text (born-digital)"},
+  {"url": "https://www.parlamento.mz/wp-content/uploads/2022/08/Legislacao_Basica.pdf", "use": "CRM as revised by Lei 1/2018, PDF pages 14-156 (born-digital compilation, 2022)"},
+  {"url": "https://cconstitucional.org.mz/historial/", "use": "CRM in force 21 Jan 2005"},
+  {"url": "https://www.wipo.int/wipolex/en/legislation/details/21389", "use": "Lei 1/2018 published and in force 12 Jun 2018"},
+  {"url": "https://cconstitucional.org.mz/constituicao-da-republica/", "use": "Conselho Constitucional page listing the CRM texts (scans) and Lei 26/2007 (scan)"},
+  {"url": "https://www.cipmoz.org/wp-content/uploads/2023/08/Descentralizacao-entenda-como-a-Frelimo-forcou-a-revisao-da-Constituicao-.pdf", "use": "2023 revision of art. 311(3): approved 3 Aug 2023, promulgated 4 Aug 2023 (no text, no law number)"},
+  {"url": "https://reformar.co.mz/documentos-diversos/lei-24-2019-lei-de-revisao-do-codigo-penal.pdf/@@download/file/Lei%2024-2019%20-%20Lei%20de%20Revisao%20do%20Codigo%20Penal.pdf", "use": "Código Penal, BR I Série n.º 248, 24 Dec 2019 (not built yet)"}
+ ]
+}

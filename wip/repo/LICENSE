@@ -1,0 +1,19 @@
+The legal texts come from the Assembleia da República de Moçambique:
+
+  Constituição da República (2004), https://www.parlamento.mz/wp-content/uploads/2022/06/Constituicao-da-Republica.pdf
+  Legislação Básica (Secretariado-Geral da Assembleia da República, 2022),
+  https://www.parlamento.mz/wp-content/uploads/2022/08/Legislacao_Basica.pdf
+  both retrieved 2026-10-28.
+
+They are official legislative texts. The Assembleia da República's site states no licence or terms for them. This
+repository is private; whether and how it may be published is the owner's decision.
+
+Changes made by Lexifina: each version was converted to one Markdown file per article, one paragraph per line;
+spacing, quotes and dashes were normalised; page numbers, running footers, title, chapter and section headings and
+the closing approval and signature formula were left out; and the versions were arranged as git commits credited to
+the laws that made each change. The wording of the law was not changed. The Assembleia da República does not endorse
+this repository.
+
+Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the tools) are
+dedicated to the public domain under CC0 1.0 Universal:
+https://creativecommons.org/publicdomain/zero/1.0/legalcode

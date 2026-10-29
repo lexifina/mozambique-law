@@ -1,0 +1,68 @@
+{
+ "country": {
+  "code": "MZ",
+  "name": "Mozambique",
+  "slug": "mozambique",
+  "lang": "pt",
+  "tz": "Africa/Maputo",
+  "future_branch": "futuro",
+  "publisher": {
+   "name": "Assembleia da República de Moçambique",
+   "email": "publicacoes@parlamento.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Lei n.º 6/2006 (Boletim da República): os actos normativos entram em vigor no prazo neles fixado ou, na falta de fixação, 15 dias após a publicação. Each law here states its own commencement, which is used as given.",
+   "source": "https://www.inm.gov.mz"
+  },
+  "licence_note": "Texts published by the Assembleia da República (parlamento.mz). No licence is stated on the site; official legislative texts. This repository is private."
+ },
+ "sources": [
+  {
+   "name": "Assembleia da República: Constituição da República (2004, as approved)",
+   "url": "https://www.parlamento.mz/wp-content/uploads/2022/06/Constituicao-da-Republica.pdf",
+   "retrieved": "2026-10-28",
+   "requests": 1,
+   "sha256": "95c716715dc09c978b5fb74a3e2ceed9d097cc2a0d53b0482531201320718e8e",
+   "licence": "No licence stated (Assembleia da República)",
+   "notes": "Born-digital PDF (Word), 97 pages, 306 articles: the text approved on 16 November 2004."
+  },
+  {
+   "name": "Assembleia da República, Secretariado-Geral: Legislação Básica (2022)",
+   "url": "https://www.parlamento.mz/wp-content/uploads/2022/08/Legislacao_Basica.pdf",
+   "retrieved": "2026-10-28",
+   "requests": 1,
+   "sha256": "8f8fffd970a8920cc4687de763848af98df18b230a2ddd589cda368fc193219f",
+   "licence": "No licence stated (Assembleia da República)",
+   "notes": "Born-digital compilation; PDF pages 14-156 hold the Constitution as revised by Lei n.º 1/2018 (313 articles). It prints \"Promulgado, a 16 de Novembro de 2014\" (sic) under the 2004 approval formula; the formula is not a unit here."
+  },
+  {
+   "name": "Conselho Constitucional: Historial",
+   "url": "https://cconstitucional.org.mz/historial/",
+   "retrieved": "2026-10-28",
+   "requests": 1,
+   "sha256": "0132d67cac4688f24c9b1730dd50a85a4f67a0cb4f6dacc551f45f5a13f699aa",
+   "licence": "No licence stated",
+   "notes": "\"Em 2004, uma nova Constituição da República é aprovada tendo entrado em vigor a 21 de Janeiro de 2005\". Its PDFs of the 1990, 2004 and 2018 texts and of Lei n.º 26/2007 are image scans (not used: no OCR)."
+  },
+  {
+   "name": "WIPO Lex: Constitution of the Republic of Mozambique (details 21389)",
+   "url": "https://www.wipo.int/wipolex/en/legislation/details/21389",
+   "retrieved": "2026-10-28",
+   "requests": 1,
+   "sha256": "5229b7c4d3c629e0120274be9911cacc5cd57d9d1a5f8091bcfbfa03cb4e3653",
+   "licence": "WIPO Lex terms of use",
+   "notes": "Entry into force 21 January 2005; adopted 16 November 2004; Lei n.º 1/2018 \"promulgated on June 11, 2018, and was published and entered into force on June 12, 2018\"."
+  }
+ ],
+ "laws": {},
+ "acts": [],
+ "applies": [],
+ "decisions": [
+  "Only born-digital PDFs with a text layer are read; scanned Boletim da República issues and scanned PDFs are left out and named (no OCR).",
+  "Text normalisation: NBSP and runs of spaces collapsed, curly quotes to straight, en and em dashes to \"-\", page numbers and running footers dropped, lines joined into paragraphs (blank-line separated in the 2004 PDF; in the 2022 compilation a wrapped line ends in a space and a new item starts with its number or letter).",
+  "Units: the preamble and one file per article (art-NNN), the article heading on the first line. Title, chapter and section headings and the closing approval and signature formula are not units."
+ ],
+ "ai_use": [
+  "Claude Code with Claude Opus 5.5 (claude-opus-5-5) wrote fetch.py and parse.py and chose the sources. No model wrote or altered legal text, and no model runs at build time."
+ ]
+}
