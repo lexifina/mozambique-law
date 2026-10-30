@@ -1,0 +1,29 @@
+The legal texts come from the Assembleia da República de Moçambique:
+
+  Constituição da República (2004), https://www.parlamento.mz/wp-content/uploads/2022/06/Constituicao-da-Republica.pdf
+  Legislação Básica (Secretariado-Geral da Assembleia da República, 2022),
+  https://www.parlamento.mz/wp-content/uploads/2022/08/Legislacao_Basica.pdf
+  both retrieved 2026-10-28.
+
+The Código Comercial (Decreto-Lei n.º 1/2022) comes from the Boletim da República, I Série, n.º 99, 25 May 2022
+(Imprensa Nacional de Moçambique), copy published by the Banco de Moçambique,
+https://bancomoc.mz/media/q4kh3wop/decreto-lei-1-2022_25-de-maio_código-comercial.pdf, retrieved 2026-10-30.
+
+The Lei do Trabalho (Lei n.º 13/2023) comes from the Boletim da República, I Série, n.º 165, 2.º suplemento,
+25 August 2023 (Imprensa Nacional de Moçambique), copy held by FAOLEX (FAO),
+https://faolex.fao.org/docs/pdf/moz221728.pdf, retrieved 2026-10-30.
+
+They are official legislative texts. Mozambique's copyright law, Lei n.º 9/2022 (Lei dos Direitos de Autor e
+Direitos Conexos), art. 7(1)(a): "A protecção prevista na presente Lei não se aplica: a) a textos oficiais de
+natureza legislativa, administrativa ou judicial, nem às suas traduções oficiais". The Assembleia da República's
+site states no licence or terms; the texts are reproduced with the attribution above.
+
+Changes made by Lexifina: each version was converted to one Markdown file per article, one paragraph per line;
+spacing, quotes and dashes were normalised; page numbers, running footers, title, chapter and section headings and
+the closing approval and signature formula were left out; and the versions were arranged as git commits credited to
+the laws that made each change. The wording of the law was not changed. Neither the Assembleia da República, the Imprensa Nacional, the Banco de Moçambique nor FAO
+endorses this repository.
+
+Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the tools) are
+dedicated to the public domain under CC0 1.0 Universal:
+https://creativecommons.org/publicdomain/zero/1.0/legalcode

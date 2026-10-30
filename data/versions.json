@@ -1,0 +1,53 @@
+{
+ "country": "MZ",
+ "acts": [
+  {
+   "slug": "constituicao",
+   "short": "CRM",
+   "title": "Constituição da República de Moçambique",
+   "url": "https://cconstitucional.org.mz/constituicao-da-republica/",
+   "versions": [
+    {
+     "from": "2005-01-21",
+     "units": 307,
+     "source_url": "https://www.parlamento.mz/wp-content/uploads/2022/06/Constituicao-da-Republica.pdf",
+     "sha256": "95c716715dc09c978b5fb74a3e2ceed9d097cc2a0d53b0482531201320718e8e"
+    },
+    {
+     "from": "2018-06-12",
+     "units": 314,
+     "source_url": "https://www.parlamento.mz/wp-content/uploads/2022/08/Legislacao_Basica.pdf",
+     "sha256": "8f8fffd970a8920cc4687de763848af98df18b230a2ddd589cda368fc193219f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-do-trabalho",
+   "short": "LT",
+   "title": "Lei do Trabalho (Lei n.º 13/2023, de 25 de Agosto)",
+   "url": "https://faolex.fao.org/docs/pdf/moz221728.pdf",
+   "versions": [
+    {
+     "from": "2024-02-21",
+     "units": 276,
+     "source_url": "https://faolex.fao.org/docs/pdf/moz221728.pdf",
+     "sha256": "271d11d31c972c96df395c7d08dc2c8124a847611e3b4824d75f71cd6a79ed84"
+    }
+   ]
+  },
+  {
+   "slug": "codigo-comercial",
+   "short": "CCom",
+   "title": "Código Comercial (Decreto-Lei n.º 1/2022, de 25 de Maio)",
+   "url": "https://bancomoc.mz/media/q4kh3wop/decreto-lei-1-2022_25-de-maio_código-comercial.pdf",
+   "versions": [
+    {
+     "from": "2022-09-22",
+     "units": 563,
+     "source_url": "https://bancomoc.mz/media/q4kh3wop/decreto-lei-1-2022_25-de-maio_código-comercial.pdf",
+     "sha256": "73bb3bfe099033ece8e692d4abc946d03ad86ae6b437f5b8ccea9237a47cff3e"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,11 @@
+{
+  "path": "mz",
+  "code": "MZ",
+  "name": "Mozambique",
+  "level": "country",
+  "repo": "https://github.com/lexifina/mozambique-law",
+  "build": "built: Constituição da República (2 versions, 2005-01-21 to 2018-06-12; not today's text: 2023 revision of art. 311(3) and Lei 26/2007 have no text-layer source); Código Comercial (DL 1/2022, as enacted, in force 2022-09-22); Lei do Trabalho (Lei 13/2023, as enacted, in force 2024-02-21)",
+  "register": "https://claude.ai/artifact/DdS9F6yqpPZtV2i7FGQhYZ",
+  "register_date": "2026-10-28",
+  "sources": 4
+}
