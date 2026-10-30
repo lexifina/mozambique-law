@@ -1,0 +1,23 @@
+{
+ "parts": {
+  "10-constituicao.json": {
+   "acts": [
+    "constituicao"
+   ],
+   "sha256": "ee3e84d13732fa363440557483364c961b3e9c4595412d106ac92aa0192737e7"
+  },
+  "30-lei-do-trabalho.json": {
+   "acts": [
+    "lei-do-trabalho"
+   ],
+   "sha256": "6930f3c0f5d866cd11513987f3de5403f6b194d4298838804e3669c69b2e32a5"
+  },
+  "40-codigo-comercial.json": {
+   "acts": [
+    "codigo-comercial"
+   ],
+   "sha256": "8bdfa10c1cf3633c417a0450acda50c2c7c05966a04cd899b7e357773dbba875"
+  }
+ },
+ "schema": 1
+}
