@@ -2,13 +2,13 @@
 
 The law of Mozambique as a git history: one file per article, one commit per law on the day it took effect, and the law that made each change as the commit's author. `git blame` names the law behind every paragraph; `git log` lists every change to an article; `tools/on.py` gives the text in force on any day.
 
-It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law), which places it at `mz/`. The texts are born-digital PDFs of the Assembleia da República and of the Boletim da República (the official gazette); nothing is read from a scan.
+It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law), which places it at `mz/`. The texts are born-digital PDFs of the Assembleia da República and of the Boletim da República (the official gazette); the 2007 historical addition is read from an official scan and verified against its full page.
 
 **What is in it**
 
 | Folder | Act | Versions | History | Today's text? |
 | --- | --- | ---: | --- | --- |
-| `constituicao/` | Constituição da República de Moçambique (CRM) | 2 | 2005-01-21 to 2018-06-12 | no: the 2023 revision of art. 311(3) is missing (see below) |
+| `constituicao/` | Constituição da República de Moçambique (CRM) | 3 | 2005-01-21 to 2018-06-12 | no: the 2023 revision of art. 311(3) is missing (see below) |
 | `codigo-comercial/` | Código Comercial (Decreto-Lei n.º 1/2022, de 25 de Maio) | 1 | 2022-09-22 | the text as enacted; no later amendment is applied |
 | `lei-do-trabalho/` | Lei do Trabalho (Lei n.º 13/2023, de 25 de Agosto) | 1 | 2024-02-21 | the text as enacted; no later amendment is applied |
 
@@ -65,11 +65,11 @@ The author of a commit is the law that made the change, with an e-mail address t
 
 ## What it does not show
 
-- **Lei n.º 26/2007** (16 Nov 2007) amended art. 304 of the 2004 text (deadline for the provincial assembly elections). The only copy found is a scanned image, so its wording is not here: from 2007 to 2018 `art-304.md` still reads as in 2004. The 2018 revision has no counterpart to that article.
+- **Lei n.º 26/2007** (16 Nov 2007) amended art. 304 of the 2004 text (deadline for the provincial assembly elections). Its official scanned text supplies the historical version from 16 November 2007, verified by OCR against the full page. The 2018 revision has no counterpart to that article.
 - **The 2023 revision of art. 311(3)** (district elections; approved 3 Aug 2023, promulgated 4 Aug 2023): no law number, Boletim da República issue or text-layer copy was found. `art-311.md` therefore still reads "têm lugar no ano de 2024", which is no longer the law.
 - **Headings and formulas.** Title, chapter and section headings, the glossary's letter headings and the closing approval and signature formula are not files; each article file starts with its number and heading.
 - **Other statutes.** The Código Penal (Lei n.º 24/2019), Código de Processo Penal and Código Civil are not here yet.
-- **No OCR.** The official republication of 2018 (BR I Série n.º 115, 2.º suplemento) and the Conselho Constitucional's PDFs are scans and are not used.
+- **Other scans.** The official republication of 2018 (BR I Série n.º 115, 2.º suplemento) and the Conselho Constitucional's PDFs are scans and are not used.
 
 ## How it is built
 
@@ -98,4 +98,8 @@ This repository is not legal advice.
 
 ## Em português
 
-Este repositório guarda a Constituição da República de Moçambique o Código Comercial (Decreto-Lei n.º 1/2022, em vigor desde 22 de Setembro de 2022) e a Lei do Trabalho (Lei n.º 13/2023, em vigor desde 21 de Fevereiro de 2024), estes dois no texto tal como publicado, como um histórico git: um ficheiro por artigo e um commit por lei, datado do dia da sua entrada em vigor (meio-dia, hora de Maputo), com a lei como autora. Contém o texto de 2004 (em vigor desde 21 de Janeiro de 2005) e o texto revisto pela Lei n.º 1/2018 (em vigor desde 12 de Junho de 2018), ambos lidos dos PDF da Assembleia da República, sem OCR. Faltam a Lei n.º 26/2007 (altera o artigo 304; só existe digitalizada) e a revisão de 2023 do n.º 3 do artigo 311 (sem texto oficial digital encontrado), pelo que o último texto aqui não é o texto em vigor hoje. Não constitui aconselhamento jurídico.
+Este repositório guarda a Constituição da República de Moçambique o Código Comercial (Decreto-Lei n.º 1/2022, em vigor desde 22 de Setembro de 2022) e a Lei do Trabalho (Lei n.º 13/2023, em vigor desde 21 de Fevereiro de 2024), estes dois no texto tal como publicado, como um histórico git: um ficheiro por artigo e um commit por lei, datado do dia da sua entrada em vigor (meio-dia, hora de Maputo), com a lei como autora. Contém o texto de 2004 (em vigor desde 21 de Janeiro de 2005) e o texto revisto pela Lei n.º 1/2018 (em vigor desde 12 de Junho de 2018), ambos lidos dos PDF da Assembleia da República, sem OCR. Falta a revisão de 2023 do n.º 3 do artigo 311 (sem texto oficial digital encontrado), pelo que o último texto aqui não é o texto em vigor hoje. Não constitui aconselhamento jurídico.
+
+## Historical addition
+
+Lei n.º 26/2007, published and in force on 16 November 2007, replaces article 304 of the 2004 Constitution. This historical version uses OCR of the one-page official gazette scan published by the Conselho Constitucional, verified against the whole page. The existing 2005 and 2018 source versions are retained. The 2023 revision remains outside this record.

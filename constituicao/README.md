@@ -1,6 +1,6 @@
 # Constituição da República de Moçambique
 
-CRM · 2 versions, from 2005-01-21 (latest in force: 2018-06-12) · <https://cconstitucional.org.mz/constituicao-da-republica/>
+CRM · 3 versions, from 2005-01-21 (latest in force: 2018-06-12) · <https://cconstitucional.org.mz/constituicao-da-republica/>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -307,7 +307,7 @@ CRM · 2 versions, from 2005-01-21 (latest in force: 2018-06-12) · <https://cco
 | Art. 301 | [art-301.md](art-301.md) | 1 | 2018-06-12 |
 | Art. 302 | [art-302.md](art-302.md) | 1 | 2018-06-12 |
 | Art. 303 | [art-303.md](art-303.md) | 1 | 2018-06-12 |
-| Art. 304 | [art-304.md](art-304.md) | 1 | 2018-06-12 |
+| Art. 304 | [art-304.md](art-304.md) | 2 | 2018-06-12 |
 | Art. 305 | [art-305.md](art-305.md) | 1 | 2018-06-12 |
 | Art. 306 | [art-306.md](art-306.md) | 1 | 2018-06-12 |
 | Art. 307 | [art-307.md](art-307.md) | 1 | 2018-06-12 |

@@ -17,6 +17,12 @@
     "codigo-comercial"
    ],
    "sha256": "8bdfa10c1cf3633c417a0450acda50c2c7c05966a04cd899b7e357773dbba875"
+  },
+  "60-q54-constituicao-2007.json": {
+   "acts": [
+    "constituicao"
+   ],
+   "sha256": "3bc626bb477ca46e010ea29e564f371c5a49174977e1dfd6510baf67f9a90967"
   }
  },
  "schema": 1
