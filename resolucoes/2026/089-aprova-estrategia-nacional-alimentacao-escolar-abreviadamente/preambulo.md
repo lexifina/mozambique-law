@@ -1,0 +1,3 @@
+# Preâmbulo
+
+de 5 de Novembro Havendo necessidade de assegurar e garantir que todas as crianças em Moçambique tenham acesso a refeições nutritivas nas escolas, apoiando o seu pleno desenvolvimento e aprendizagem, contribuindo para o bem-estar de todos os moçambicanos e para o desenvolvimento humano, económico e social do País, bem como garantir que as futuras gerações tenham acesso a uma alimentação adequada e a um bom estado nutricional para uma vida produtiva, sustentável e saudável, ao abrigo do disposto na alínea f) do número 1 do artigo 203 da Constituição da República, o Conselho de Ministros determina:
