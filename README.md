@@ -1,35 +1,41 @@
-# Mozambique: law history in git
+# Moçambique: a história do direito em git
 
+**Português** · [English](README.en.md)
 
-The law of Mozambique as a git history: one file per article, one commit per version on the day it took effect, and the act that made each change as the commit's author. `git blame` names the act behind every paragraph; `git log` lists every change to an article; picking a date gives the text in force that day.
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="data/pt/effort-dark.svg">
+<img alt="O direito moçambicano neste repositório: o que contém, as alterações por ano de entrada em vigor, a completude face às fontes oficiais e a exatidão do conteúdo" src="data/pt/effort-light.svg" width="880">
+</picture>
 
-Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Mozambique's national law, which global-law reads at `mozambique/national/acts/`.
+O direito de Moçambique como uma história git: um ficheiro por artigo, um commit por versão no dia em que entrou em vigor e, como autor do commit, o ato que fez cada alteração. `git blame` indica o ato por detrás de cada parágrafo; `git log` lista todas as alterações a um artigo; escolhendo uma data, obtém-se o texto em vigor nesse dia.
 
-**What is in it now:** the Constitution (Constituição da República de Moçambique) in three versions: the text of 2004, in force from 21 January 2005; its Article 304 as replaced by Lei n.º 26/2007, from 16 November 2007; and the text revised and republished by Lei n.º 1/2018, from 12 June 2018, with 313 articles. And two acts in one version each, as enacted: the Código Comercial (Decreto-Lei n.º 1/2022, the Code's 554 articles and the decree-law's 8) and the Lei do Trabalho (Lei n.º 13/2023, 274 articles and a glossary). Each act's folder has a `README.md` listing its provisions, and [`data/laws.csv`](data/laws.csv) lists the five laws the record names, with their dates.
+Faz parte de [lexifina/global-law](https://github.com/lexifina/global-law), uma única história git do direito de todos os países: este é o direito nacional de Moçambique, que o global-law lê em `mozambique/national/acts/`.
 
-Each act is a folder, one file per article and a `preambulo.md`: `lei-do-trabalho/art-108.md` is Article 108 (Duração do período de férias) of the Lei do Trabalho, and the decree-law's own articles are `codigo-comercial/dl-art-NNN.md`. The 2018 revision renumbered most articles of the Constitution from Article 140 on, so after 12 June 2018 a file holds the article that now bears its number.
+**O que contém por agora:** a Constituição (Constituição da República de Moçambique) em três versões: o texto de 2004, em vigor desde 21 de janeiro de 2005; o seu artigo 304 tal como substituído pela Lei n.º 26/2007, desde 16 de novembro de 2007; e o texto revisto e republicado pela Lei n.º 1/2018, desde 12 de junho de 2018, com 313 artigos. E dois atos numa só versão cada, tal como aprovados: o Código Comercial (Decreto-Lei n.º 1/2022, os 554 artigos do Código e os 8 do decreto-lei) e a Lei do Trabalho (Lei n.º 13/2023, 274 artigos e um glossário). A pasta de cada ato tem um `README.md` que lista as suas disposições, e [`data/laws.csv`](data/laws.csv) lista as cinco leis que o registo menciona, com as respetivas datas.
 
-The text is in Portuguese, as the Assembleia da República's editions and the Boletim da República print it. An English translation is not part of this record.
+Cada ato é uma pasta, com um ficheiro por artigo e um `preambulo.md`: `lei-do-trabalho/art-108.md` é o artigo 108 (Duração do período de férias) da Lei do Trabalho, e os artigos do próprio decreto-lei são `codigo-comercial/dl-art-NNN.md`. A revisão de 2018 renumerou a maior parte dos artigos da Constituição a partir do artigo 140, pelo que, a partir de 12 de junho de 2018, cada ficheiro contém o artigo que passou a ter esse número.
 
-## Questions as git commands
+O texto está em português, tal como as edições da Assembleia da República e o Boletim da República o publicam. Não faz parte deste registo nenhuma tradução inglesa.
 
-| Question | Command |
+## Perguntas como comandos git
+
+| Pergunta | Comando |
 | --- | --- |
-| Every change to Article 108 of the Lei do Trabalho (annual leave) | `git log -p --word-diff -- lei-do-trabalho/art-108.md` |
-| Which act wrote each paragraph of Article 108? | `git blame lei-do-trabalho/art-108.md` |
-| Every version of Article 108, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- lei-do-trabalho/art-108.md` |
-| Article 108 as in force on 1 January 2025 | `python tools/on.py 2025-01-01 lei-do-trabalho 108` |
+| Todas as alterações ao artigo 108 da Lei do Trabalho (férias) | `git log -p --word-diff -- lei-do-trabalho/art-108.md` |
+| Que ato escreveu cada parágrafo do artigo 108? | `git blame lei-do-trabalho/art-108.md` |
+| Todas as versões do artigo 108, com o dia em que cada uma entrou em vigor | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- lei-do-trabalho/art-108.md` |
+| O artigo 108 em vigor em 1 de janeiro de 2025 | `python tools/on.py 2025-01-01 lei-do-trabalho 108` |
 
-**Outside git**, we also host this record publicly, for free:
+**Fora do git**, também disponibilizamos este registo publicamente e de forma gratuita:
 
-- **[Ask Claude about Mozambican law](https://global-law.lexifina.com/v1/try_claude?country=mozambique)**: opens Claude with a first question ready.
-- **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=mozambique)**: the same question in ChatGPT.
-- **[Search Mozambican law on our site](https://lexifina.com/law?country=mozambique&q=f%C3%A9rias)**: a search for "férias" (annual leave), with each provision's text and its versions, no account needed.
-- **[Developer REST API](https://global-law.lexifina.com/v1/search_law?query=f%C3%A9rias&jurisdiction=mozambique)**: the same search as JSON, with no key. See the [documentation here](https://lexifina.com/api/global-law).
+- **[Perguntar ao Claude sobre o direito moçambicano](https://global-law.lexifina.com/v1/try_claude?country=mozambique)**: abre o Claude com uma primeira pergunta já preparada.
+- **[Perguntar ao ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=mozambique)**: a mesma pergunta no ChatGPT.
+- **[Pesquisar o direito moçambicano no nosso sítio](https://lexifina.com/law?country=mozambique&q=f%C3%A9rias)**: uma pesquisa por "férias", com o texto de cada disposição e as suas versões, sem necessidade de conta.
+- **[API REST para programadores](https://global-law.lexifina.com/v1/search_law?query=f%C3%A9rias&jurisdiction=mozambique)**: a mesma pesquisa em JSON, sem chave. Veja a [documentação aqui](https://lexifina.com/api/global-law).
 
-Both assistants read the record through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives you the link that adds it. Ask in Portuguese or in English.
+Ambos os assistentes leem o registo através do conector gratuito Global law (MCP, `https://global-law.lexifina.com/mcp`); da primeira vez, a conversa dá-lhe a ligação que o adiciona. Pergunte em português ou em inglês.
 
-**Host it yourself easily.** All it takes is git and Python, and the tools run on your machine:
+**Aloje-o facilmente por conta própria.** Basta ter git e Python, e as ferramentas correm na sua máquina:
 
 ```sh
 git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
@@ -37,59 +43,57 @@ python3 tools/countries.py add mozambique/national/acts
 python3 tools/law.py show 2026-01-01 mozambique/national/acts/lei-do-trabalho/art-108.md
 ```
 
-Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local MCP server with the same tools ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
+Aberto no Claude Code, no Cursor, no VS Code ou no Codex, o clone inicia também um servidor MCP local com as mesmas ferramentas ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
 
-## Dates
+## Datas
 
-Each commit is dated at noon, Africa/Maputo, on the day the version took effect, and carries it in its `In-force:` trailer:
+Cada commit tem a data do meio-dia, hora de Africa/Maputo, do dia em que a versão entrou em vigor, e indica-a no seu trailer `In-force:`:
 
-- the 2004 Constitution took effect on 21 January 2005, the day after the 2004 general election results were validated and proclaimed (its art. 306), as the Conselho Constitucional states; Lei n.º 26/2007 on its publication, 16 November 2007 (its art. 2); Lei n.º 1/2018 on 12 June 2018, the day it was published;
-- the Código Comercial took effect 120 days and the Lei do Trabalho 180 days after publication (25 May 2022 and 25 August 2023; decree-law art. 8 and law art. 274), counted from the next day: 22 September 2022 and 21 February 2024;
-- the 2007 version was found after the others were published, so it is a later `Kind: correction` commit, which `tools/on.py` applies from 16 November 2007 to 11 June 2018. Ask for a date with `tools/on.py`, not `git log --before`.
+- a Constituição de 2004 entrou em vigor em 21 de janeiro de 2005, o dia seguinte à validação e proclamação dos resultados das eleições gerais de 2004 (o seu art. 306), como indica o Conselho Constitucional; a Lei n.º 26/2007 na data da sua publicação, 16 de novembro de 2007 (o seu art. 2); a Lei n.º 1/2018 em 12 de junho de 2018, o dia em que foi publicada;
+- o Código Comercial entrou em vigor 120 dias e a Lei do Trabalho 180 dias após a publicação (25 de maio de 2022 e 25 de agosto de 2023; art. 8 do decreto-lei e art. 274 da lei), contados a partir do dia seguinte: 22 de setembro de 2022 e 21 de fevereiro de 2024;
+- a versão de 2007 foi encontrada depois de as outras terem sido publicadas, pelo que é um commit posterior `Kind: correction`, que `tools/on.py` aplica de 16 de novembro de 2007 a 11 de junho de 2018. Consulte uma data com `tools/on.py`, não com `git log --before`.
 
-The first version of the Constitution is credited to the Constitution as approved on 16 November 2004, and Lei n.º 1/2018 to every article that differs in 2018, renumbering included; each code is credited whole to the act that enacted it. The 2007 correction, and the one that sets Article 304 back to its 2018 text, are credited to Lexifina (their messages name the law), so `git blame constituicao/art-304.md` names Lexifina. The committer is always Lexifina.
+A primeira versão da Constituição é atribuída à Constituição tal como aprovada em 16 de novembro de 2004, e a Lei n.º 1/2018 a todos os artigos que diferem em 2018, incluindo a renumeração; cada código é atribuído por inteiro ao ato que o aprovou. A correção de 2007, e a que repõe o artigo 304 no seu texto de 2018, são atribuídas à Lexifina (as suas mensagens indicam a lei), pelo que `git blame constituicao/art-304.md` indica a Lexifina. O committer é sempre a Lexifina.
 
-## How it is checked
+## Como é verificado
 
-- `tools/check_repo.py` reads every version back from git on the day it took effect and on the day before, and both must match the corpus: 5 versions of 3 acts, 0 mismatches. The results are in [`REPRODUCE.md`](REPRODUCE.md).
-- The texts are read from the PDFs' own text layers, not scans. Every article of the 2004 and 2018 Constitution was compared, character for character, with a second, independent extraction of the same PDFs, and every paragraph of the two codes was found, in order, in one. The 2007 article is read from the one-page official scan and checked word for word against the whole page.
-- History is append-only: no merge commits, no commit dated after the build, and every commit's trailers parse.
+- `tools/check_repo.py` relê a partir do git cada versão no dia em que entrou em vigor e no dia anterior, e ambas têm de coincidir com o corpus: 5 versões de 3 atos, 0 divergências. Os resultados estão em [`REPRODUCE.md`](REPRODUCE.md).
+- Os textos são lidos das próprias camadas de texto dos PDF, não de digitalizações. Cada artigo da Constituição de 2004 e de 2018 foi comparado, carácter a carácter, com uma segunda extração independente dos mesmos PDF, e cada parágrafo dos dois códigos foi encontrado, pela ordem, numa delas. O artigo de 2007 é lido da digitalização oficial de uma página e verificado palavra a palavra com a página inteira.
+- A história só cresce por acréscimo: sem commits de fusão (merge), sem nenhum commit com data posterior à construção, e os trailers de todos os commits são legíveis.
 
-## What it does not show
+## O que não mostra
 
-- **The 2023 revision of Article 311(3)** (district elections; approved 3 August 2023, promulgated 4 August 2023): no law number, Boletim da República issue or copy with a text layer was found, so `constituicao/art-311.md` still reads "têm lugar no ano de 2024", which is no longer the law.
-- **Later amendments to the two codes.** The Código Comercial and the Lei do Trabalho are the texts as enacted; no amendment is applied.
-- **Any other act yet**, such as the Código Penal (Lei n.º 24/2019), the Código de Processo Penal or the Código Civil.
-- **Headings and formulas.** Title, chapter and section headings and the closing approval and signature formulas are not files; each article file starts with its number and heading.
-- **Texts published only as scans**, such as the official republication of 2018 (Boletim da República, I Série n.º 115, 2.º suplemento); the one-page Lei n.º 26/2007 is the only scan read.
+- **A revisão de 2023 do n.º 3 do artigo 311** (eleições distritais; aprovada em 3 de agosto de 2023, promulgada em 4 de agosto de 2023): não foi encontrado o número da lei, o número do Boletim da República nem uma cópia com camada de texto, pelo que `constituicao/art-311.md` continua a dizer "têm lugar no ano de 2024", o que já não é o direito em vigor.
+- **Alterações posteriores aos dois códigos.** O Código Comercial e a Lei do Trabalho são os textos tal como aprovados; nenhuma alteração está aplicada.
+- **Nenhum outro ato, por enquanto**, como o Código Penal (Lei n.º 24/2019), o Código de Processo Penal ou o Código Civil.
+- **Epígrafes e fórmulas.** As epígrafes dos títulos, capítulos e secções e as fórmulas finais de aprovação e assinatura não são ficheiros; cada ficheiro de artigo começa com o seu número e epígrafe.
+- **Textos publicados apenas como digitalizações**, como a republicação oficial de 2018 (Boletim da República, I Série n.º 115, 2.º suplemento); a Lei n.º 26/2007, de uma página, é a única digitalização lida.
 
-## Sources
+## Fontes
 
-| Source | Kind | Past versions | Notes |
+| Fonte | Tipo | Versões anteriores | Notas |
 | --- | --- | --- | --- |
-| Assembleia da República: [Constituição da República](https://www.parlamento.mz/wp-content/uploads/2022/06/Constituicao-da-Republica.pdf) (2004) and [*Legislação Básica*](https://www.parlamento.mz/wp-content/uploads/2022/08/Legislacao_Basica.pdf) (2022) | Official editions, born-digital PDFs | yes, the 2004 text and the text as revised in 2018 | The Constitution's versions of 2005 and 2018 |
-| Boletim da República (Imprensa Nacional), I Série n.º 99, 25 May 2022, copy published by the [Banco de Moçambique](https://bancomoc.mz/media/q4kh3wop/decreto-lei-1-2022_25-de-maio_c%C3%B3digo-comercial.pdf) | Official gazette, born-digital PDF | no, the act as enacted | Decreto-Lei n.º 1/2022 and the Código Comercial |
-| Boletim da República, I Série n.º 165, 2.º suplemento, 25 August 2023, copy held by [FAOLEX](https://faolex.fao.org/docs/pdf/moz221728.pdf) | Official gazette, born-digital PDF | no, the act as enacted | Lei n.º 13/2023, the Lei do Trabalho |
-| [Conselho Constitucional](https://cconstitucional.org.mz/historial/) | Constitutional court: the Constitution's history, and the gazette scan of [Lei n.º 26/2007](https://cconstitucional.org.mz/wp-content/uploads/2023/12/Lei26-2007de16deNovembroalteraoartigo304daConstituicaodaRepublica.pdf) | one change, of 2007 | The day the 2004 Constitution took effect; the 2007 text of Article 304 |
-| [WIPO Lex](https://www.wipo.int/wipolex/en/legislation/details/21389) | Legislation database | no | The dates of Lei n.º 1/2018 |
+| Assembleia da República: [Constituição da República](https://www.parlamento.mz/wp-content/uploads/2022/06/Constituicao-da-Republica.pdf) (2004) e [*Legislação Básica*](https://www.parlamento.mz/wp-content/uploads/2022/08/Legislacao_Basica.pdf) (2022) | Edições oficiais, PDF nativamente digitais | sim, o texto de 2004 e o texto revisto em 2018 | As versões da Constituição de 2005 e de 2018 |
+| Boletim da República (Imprensa Nacional), I Série n.º 99, de 25 de maio de 2022, cópia publicada pelo [Banco de Moçambique](https://bancomoc.mz/media/q4kh3wop/decreto-lei-1-2022_25-de-maio_c%C3%B3digo-comercial.pdf) | Jornal oficial, PDF nativamente digital | não, o ato tal como aprovado | O Decreto-Lei n.º 1/2022 e o Código Comercial |
+| Boletim da República, I Série n.º 165, 2.º suplemento, de 25 de agosto de 2023, cópia conservada pela [FAOLEX](https://faolex.fao.org/docs/pdf/moz221728.pdf) | Jornal oficial, PDF nativamente digital | não, o ato tal como aprovado | A Lei n.º 13/2023, Lei do Trabalho |
+| [Conselho Constitucional](https://cconstitucional.org.mz/historial/) | Tribunal constitucional: a história da Constituição e a digitalização do jornal oficial com a [Lei n.º 26/2007](https://cconstitucional.org.mz/wp-content/uploads/2023/12/Lei26-2007de16deNovembroalteraoartigo304daConstituicaodaRepublica.pdf) | uma alteração, de 2007 | O dia em que a Constituição de 2004 entrou em vigor; o texto de 2007 do artigo 304 |
+| [WIPO Lex](https://www.wipo.int/wipolex/en/legislation/details/21389) | Base de dados de legislação | não | As datas da Lei n.º 1/2018 |
 
-## Licence
+## Licença
 
-See [`LICENSE`](LICENSE). The texts are official legislative texts, which Mozambique's copyright law leaves unprotected (Lei n.º 9/2022, art. 7(1)(a)), reproduced with the attribution LICENSE gives. The history, commit messages, tables and tools are CC0 1.0.
+Veja [`LICENSE`](LICENSE). Os textos são textos legislativos oficiais, que a lei moçambicana do direito de autor deixa sem proteção (Lei n.º 9/2022, art. 7, n.º 1, alínea a)), reproduzidos com a atribuição indicada no LICENSE. A história, as mensagens de commit, as tabelas e as ferramentas estão sob CC0 1.0.
 
-No AI model wrote, translated or corrected legal text, and none runs when the history is built; the scripts were written by AI models, Claude and, for the 2007 version, GPT-6, which also compared its OCR with the official scan (see [`REPRODUCE.md`](REPRODUCE.md)).
+Nenhum modelo de IA escreveu, traduziu ou corrigiu texto jurídico, e nenhum é executado quando a história é construída; os scripts foram escritos por modelos de IA, o Claude e, para a versão de 2007, o GPT-6, que também comparou o seu OCR com a digitalização oficial (veja [`REPRODUCE.md`](REPRODUCE.md)).
 
-## Em português
+Esta é uma tradução da versão inglesa ([README.en.md](README.en.md)); em caso de divergência, prevalece a versão inglesa.
 
-Este repositório guarda a história do direito moçambicano em git: um ficheiro por artigo, um commit por versão no dia em que entrou em vigor e, como autor do commit, o acto que fez cada alteração. Contém a Constituição da República de Moçambique em três versões (o texto de 2004, em vigor desde 21 de Janeiro de 2005; o artigo 304 substituído pela Lei n.º 26/2007, desde 16 de Novembro de 2007; e o texto revisto pela Lei n.º 1/2018, desde 12 de Junho de 2018), e o Código Comercial (Decreto-Lei n.º 1/2022) e a Lei do Trabalho (Lei n.º 13/2023) no texto tal como publicado. Falta a revisão de 2023 do n.º 3 do artigo 311, pelo que o último texto da Constituição aqui não é o texto em vigor hoje. `python tools/on.py 2025-01-01 lei-do-trabalho 108` mostra o artigo 108 em vigor nessa data, e `git blame lei-do-trabalho/art-108.md` indica o acto de cada parágrafo.
+## Mais informação
 
-## More
+Do repositório [lexifina/global-law](https://github.com/lexifina/global-law) (páginas em inglês):
 
-From [lexifina/global-law](https://github.com/lexifina/global-law):
-
-- [FEATURES.md](https://github.com/lexifina/global-law/blob/main/FEATURES.md): every feature, and what every corpus must support (`git blame`, `law.py`, the MCP tools)
-- [FAQ.md](https://github.com/lexifina/global-law/blob/main/FAQ.md): questions and answers · [CONTRIBUTING.md](https://github.com/lexifina/global-law/blob/main/CONTRIBUTING.md): proposing changes · [MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md): the MCP server · [REPRODUCE.md](https://github.com/lexifina/global-law/blob/main/REPRODUCE.md): how it was built · [CHANGELOG.md](https://github.com/lexifina/global-law/blob/main/CHANGELOG.md)
-- [FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md): how current each corpus is · [Monitoring](https://github.com/lexifina/global-law/tree/main/monitoring): whether updates are running · [WATCHING.md](https://github.com/lexifina/global-law/blob/main/WATCHING.md): how each official source is watched for changes
-- [performance/](https://github.com/lexifina/global-law/tree/main/performance): how fast the tools are, measured
-- [visualisations/](https://github.com/lexifina/global-law/tree/main/visualisations): charts and bridges across the world's law
-- [Vulnerabilities](https://github.com/lexifina/global-law/tree/main/vulnerabilities): mistakes in legislation as published
+- [FEATURES.md](https://github.com/lexifina/global-law/blob/main/FEATURES.md): todas as funcionalidades e o que cada corpus tem de suportar (`git blame`, `law.py`, ferramentas MCP)
+- [FAQ.md](https://github.com/lexifina/global-law/blob/main/FAQ.md): perguntas e respostas · [CONTRIBUTING.md](https://github.com/lexifina/global-law/blob/main/CONTRIBUTING.md): propor alterações · [MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md): servidor MCP · [REPRODUCE.md](https://github.com/lexifina/global-law/blob/main/REPRODUCE.md): como foi construído · [CHANGELOG.md](https://github.com/lexifina/global-law/blob/main/CHANGELOG.md)
+- [FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md): quão atualizado está cada corpus · [Monitorização](https://github.com/lexifina/global-law/tree/main/monitoring): se as atualizações estão a funcionar · [WATCHING.md](https://github.com/lexifina/global-law/blob/main/WATCHING.md): como cada fonte oficial é vigiada para detetar alterações
+- [performance/](https://github.com/lexifina/global-law/tree/main/performance): a rapidez das ferramentas, medida
+- [visualisations/](https://github.com/lexifina/global-law/tree/main/visualisations): gráficos e ligações através do direito de todo o mundo
+- [Vulnerabilidades](https://github.com/lexifina/global-law/tree/main/vulnerabilities): erros nos diplomas tal como foram publicados
