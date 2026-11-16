@@ -60,6 +60,7 @@ The first version of the Constitution is credited to the Constitution as approve
 - `tools/check_repo.py` reads every version back from git on the day it took effect and on the day before, and both must match the corpus: 5 versions of 3 acts, 0 mismatches. The results are in [`REPRODUCE.md`](REPRODUCE.md).
 - The texts are read from the PDFs' own text layers, not scans. Every article of the 2004 and 2018 Constitution was compared, character for character, with a second, independent extraction of the same PDFs, and every paragraph of the two codes was found, in order, in one. The 2007 article is read from the one-page official scan and checked word for word against the whole page.
 - History is append-only: no merge commits, no commit dated after the build, and every commit's trailers parse.
+- [vulnerabilities/](vulnerabilities/README.en.md): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
 
@@ -84,6 +85,10 @@ The first version of the Constitution is credited to the Constitution as approve
 See [`LICENSE`](LICENSE). The texts are official legislative texts, which Mozambique's copyright law leaves unprotected (Lei n.º 9/2022, art. 7(1)(a)), reproduced with the attribution LICENSE gives. The history, commit messages, tables and tools are CC0 1.0.
 
 No AI model wrote, translated or corrected legal text, and none runs when the history is built; the scripts were written by AI models, Claude and, for the 2007 version, GPT-6, which also compared its OCR with the official scan (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## Visualisations
+
+- [visualisations/](visualisations/README.en.md): charts drawn from this repository. Not drawn yet.
 
 ## More
 

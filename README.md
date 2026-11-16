@@ -60,6 +60,7 @@ A primeira versão da Constituição é atribuída à Constituição tal como ap
 - `tools/check_repo.py` relê a partir do git cada versão no dia em que entrou em vigor e no dia anterior, e ambas têm de coincidir com o corpus: 5 versões de 3 atos, 0 divergências. Os resultados estão em [`REPRODUCE.md`](REPRODUCE.md).
 - Os textos são lidos das próprias camadas de texto dos PDF, não de digitalizações. Cada artigo da Constituição de 2004 e de 2018 foi comparado, carácter a carácter, com uma segunda extração independente dos mesmos PDF, e cada parágrafo dos dois códigos foi encontrado, pela ordem, numa delas. O artigo de 2007 é lido da digitalização oficial de uma página e verificado palavra a palavra com a página inteira.
 - A história só cresce por acréscimo: sem commits de fusão (merge), sem nenhum commit com data posterior à construção, e os trailers de todos os commits são legíveis.
+- [vulnerabilities/](vulnerabilities/): possíveis erros de redação neste direito, encontrados pelos detetores do global-law e verificados à mão. Ainda não executado.
 
 ## O que não mostra
 
@@ -86,6 +87,10 @@ Veja [`LICENSE`](LICENSE). Os textos são textos legislativos oficiais, que a le
 Nenhum modelo de IA escreveu, traduziu ou corrigiu texto jurídico, e nenhum é executado quando a história é construída; os scripts foram escritos por modelos de IA, o Claude e, para a versão de 2007, o GPT-6, que também comparou o seu OCR com a digitalização oficial (veja [`REPRODUCE.md`](REPRODUCE.md)).
 
 Esta é uma tradução da versão inglesa ([README.en.md](README.en.md)); em caso de divergência, prevalece a versão inglesa.
+
+## Visualizações
+
+- [visualisations/](visualisations/): gráficos feitos a partir deste repositório. Ainda não feitos.
 
 ## Mais informação
 
