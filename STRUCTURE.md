@@ -31,4 +31,4 @@ Text read from a scan's own OCR layer carries `Text-source: publisher OCR` (we d
 
 ## Agora / Now
 
-618 acts from the runner: 466 secondary copies, 108 with the publisher's own OCR layer.
+631 acts from the runner: 479 secondary copies, 108 with the publisher's own OCR layer.
