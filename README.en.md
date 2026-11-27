@@ -11,9 +11,9 @@ The law of Mozambique as a git history: one file per article, one commit per ver
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Mozambique's national law, which global-law reads at `mozambique/national/acts/`.
 
-**What is in it now:** the Constitution (Constituição da República de Moçambique) in three versions: the text of 2004, in force from 21 January 2005; its Article 304 as replaced by Lei n.º 26/2007, from 16 November 2007; and the text revised and republished by Lei n.º 1/2018, from 12 June 2018, with 313 articles. And two acts in one version each, as enacted: the Código Comercial (Decreto-Lei n.º 1/2022, the Code's 554 articles and the decree-law's 8) and the Lei do Trabalho (Lei n.º 13/2023, 274 articles and a glossary). Each act's folder has a `README.md` listing its provisions, and [`data/laws.csv`](data/laws.csv) lists the five laws the record names, with their dates.
+**What is in it now:** the Constitution (Constituição da República de Moçambique) in three versions: the 2004 text, in force from 21 January 2005; its Article 304 as replaced by Lei n.º 26/2007, from 16 November 2007; and the text revised and republished by Lei n.º 1/2018, from 12 June 2018. The codes in `codigos/codigo-comercial/`, and the Lei do Trabalho (Lei n.º 13/2023) in `leis/2023/013-lei-do-trabalho/`. And, as published in the Boletim da República (1972–2024), 19 laws, 6 ministerial diplomas, 6 decrees, 3 resolutions and 1 portaria, each in `<type>/<year>/<number>-<subject>/`. The layout is in [STRUCTURE.md](STRUCTURE.md).
 
-Each act is a folder, one file per article and a `preambulo.md`: `lei-do-trabalho/art-108.md` is Article 108 (Duração do período de férias) of the Lei do Trabalho, and the decree-law's own articles are `codigo-comercial/dl-art-NNN.md`. The 2018 revision renumbered most articles of the Constitution from Article 140 on, so after 12 June 2018 a file holds the article that now bears its number.
+Each act is a folder, one file per article and a `preambulo.md`: `leis/2023/013-lei-do-trabalho/art-108.md` is Article 108 (Duração do período de férias) of the Lei do Trabalho, and the decree-law's own articles are `codigos/codigo-comercial/dl-art-NNN.md`. The 2018 revision renumbered most articles of the Constitution from Article 140 on, so after 12 June 2018 a file holds the article that now bears its number.
 
 The text is in Portuguese, as the Assembleia da República's editions and the Boletim da República print it. An English translation is not part of this record.
 
@@ -21,10 +21,10 @@ The text is in Portuguese, as the Assembleia da República's editions and the Bo
 
 | Question | Command |
 | --- | --- |
-| Every change to Article 108 of the Lei do Trabalho (annual leave) | `git log -p --word-diff -- lei-do-trabalho/art-108.md` |
-| Which act wrote each paragraph of Article 108? | `git blame lei-do-trabalho/art-108.md` |
-| Every version of Article 108, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- lei-do-trabalho/art-108.md` |
-| Article 108 as in force on 1 January 2025 | `python tools/on.py 2025-01-01 lei-do-trabalho 108` |
+| Every change to Article 108 of the Lei do Trabalho (annual leave) | `git log -p --word-diff -- leis/2023/013-lei-do-trabalho/art-108.md` |
+| Which act wrote each paragraph of Article 108? | `git blame leis/2023/013-lei-do-trabalho/art-108.md` |
+| Every version of Article 108, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- leis/2023/013-lei-do-trabalho/art-108.md` |
+| Article 108 as in force on 1 January 2025 | `python tools/on.py 2025-01-01 leis/2023/013-lei-do-trabalho 108` |
 
 **Outside git**, we also host this record publicly, for free:
 
@@ -40,7 +40,7 @@ Both assistants read the record through the free Global law connector (MCP, `htt
 ```sh
 git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
 python3 tools/countries.py add mozambique/national/acts
-python3 tools/law.py show 2026-01-01 mozambique/national/acts/lei-do-trabalho/art-108.md
+python3 tools/law.py show 2026-01-01 mozambique/national/acts/leis/2023/013-lei-do-trabalho/art-108.md
 ```
 
 Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local MCP server with the same tools ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
@@ -66,7 +66,7 @@ The first version of the Constitution is credited to the Constitution as approve
 
 - **The 2023 revision of Article 311(3)** (district elections; approved 3 August 2023, promulgated 4 August 2023): no law number, Boletim da República issue or copy with a text layer was found, so `constituicao/art-311.md` still reads "têm lugar no ano de 2024", which is no longer the law.
 - **Later amendments to the two codes.** The Código Comercial and the Lei do Trabalho are the texts as enacted; no amendment is applied.
-- **Any other act yet**, such as the Código Penal (Lei n.º 24/2019), the Código de Processo Penal or the Código Civil.
+- **Acts not yet collected**: those published only as scans without a text layer (we do no OCR), those with no datable entry-into-force clause, and the Código Civil (no consolidated Mozambican text with a text layer); see STRUCTURE.md.
 - **Headings and formulas.** Title, chapter and section headings and the closing approval and signature formulas are not files; each article file starts with its number and heading.
 - **Texts published only as scans**, such as the official republication of 2018 (Boletim da República, I Série n.º 115, 2.º suplemento); the one-page Lei n.º 26/2007 is the only scan read.
 

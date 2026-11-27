@@ -93,3 +93,19 @@ The commit messages are written by `build.py` from the source data.
 Model use at data-build time:
 - Claude Code with Claude Opus 5.5 (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model wrote or altered legal text, and no model runs at build time.
 - GPT-6 selected the official source, wrote extraction and verification code, and compared the OCR output with the full-page scan. No model-generated legal wording is used.
+
+## Laws, decrees and other acts (runner, from 2026-11-27)
+
+Built by `scripts/mozambique-law/runner/` (mz_fetch.py, mz_text.py, mz_build.py, mz_docs.py):
+
+1. `mz_fetch.py` reads FAOLEX's public sitemaps for Mozambican records and their PDFs, the PDF media of the
+   Assembleia da República and the Conselho Constitucional (WordPress), and single gazette PDFs in `extra_urls.txt`,
+   one request in flight per host about a second apart.
+2. `mz_build.py` reads each PDF's own text layer (no OCR), finds the act by its heading in the Boletim da República
+   issue (type, number and year), splits it into articles, and dates it from the act's own entry-into-force clause
+   ("na data da sua publicação", "30 dias após a data da sua publicação", ...) counted from the issue's date. An act
+   with no such clause, no issue date, or no text layer is held, not guessed. FAOLEX English translations are not used.
+3. Each act is one commit, as published, dated noon Africa/Maputo on its in-force day (pre-1970 days are stamped
+   1970-01-01 with the real day in the subject and In-force), with In-force, In-force-basis, Published, Gazette,
+   Source, Source-status and Text-source trailers. Commits are appended; corrections are later `Kind: correction`
+   commits.

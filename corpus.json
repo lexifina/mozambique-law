@@ -1,0 +1,24 @@
+{
+  "corpus": "mz/national/acts",
+  "label": "Mozambique",
+  "language": "pt",
+  "name": "Mozambique: the Constitution, codes, laws, decrees and other acts as published in the Boletim da República",
+  "dates": {
+    "commit": "in-force",
+    "time": "12:00 Africa/Maputo (UTC+2)"
+  },
+  "in_force_trailer": "In-force",
+  "has_future_branch": false,
+  "author": "the act itself (e.g. \"Lei n.º 22/2019\"); maintenance commits are Lexifina",
+  "citation": {
+    "file": "((?:[a-z-]+/[0-9]{4}/[^/]+)|(?:codigos/[^/]+)|constituicao)/(?:[^/]+/)?art-0*([0-9]+[a-z-]*)\\.md",
+    "cites": "(^|[^0-9])(artigo|art\\.?) ?{n}\\.?º?\\b"
+  },
+  "sources": [
+    "https://www.parlamento.mz",
+    "https://cconstitucional.org.mz",
+    "https://faolex.fao.org",
+    "https://reformar.co.mz",
+    "https://bancomoc.mz"
+  ]
+}

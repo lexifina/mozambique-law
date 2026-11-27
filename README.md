@@ -11,9 +11,9 @@ O direito de Moçambique como uma história git: um ficheiro por artigo, um comm
 
 Faz parte de [lexifina/global-law](https://github.com/lexifina/global-law), uma única história git do direito de todos os países: este é o direito nacional de Moçambique, que o global-law lê em `mozambique/national/acts/`.
 
-**O que contém por agora:** a Constituição (Constituição da República de Moçambique) em três versões: o texto de 2004, em vigor desde 21 de janeiro de 2005; o seu artigo 304 tal como substituído pela Lei n.º 26/2007, desde 16 de novembro de 2007; e o texto revisto e republicado pela Lei n.º 1/2018, desde 12 de junho de 2018, com 313 artigos. E dois atos numa só versão cada, tal como aprovados: o Código Comercial (Decreto-Lei n.º 1/2022, os 554 artigos do Código e os 8 do decreto-lei) e a Lei do Trabalho (Lei n.º 13/2023, 274 artigos e um glossário). A pasta de cada ato tem um `README.md` que lista as suas disposições, e [`data/laws.csv`](data/laws.csv) lista as cinco leis que o registo menciona, com as respetivas datas.
+**O que contém por agora:** a Constituição (Constituição da República de Moçambique) em três versões: o texto de 2004, em vigor desde 21 de janeiro de 2005; o seu artigo 304 tal como substituído pela Lei n.º 26/2007, desde 16 de novembro de 2007; e o texto revisto e republicado pela Lei n.º 1/2018, desde 12 de junho de 2018. Os códigos em `codigos/codigo-comercial/`, e a Lei do Trabalho (Lei n.º 13/2023) em `leis/2023/013-lei-do-trabalho/`. E, tal como publicados no Boletim da República (1972–2024), 19 leis, 6 diplomas ministeriais, 6 decretos, 3 resoluções e 1 portaria, cada um em `<tipo>/<ano>/<número>-<objecto>/`. A organização está em [STRUCTURE.md](STRUCTURE.md).
 
-Cada ato é uma pasta, com um ficheiro por artigo e um `preambulo.md`: `lei-do-trabalho/art-108.md` é o artigo 108 (Duração do período de férias) da Lei do Trabalho, e os artigos do próprio decreto-lei são `codigo-comercial/dl-art-NNN.md`. A revisão de 2018 renumerou a maior parte dos artigos da Constituição a partir do artigo 140, pelo que, a partir de 12 de junho de 2018, cada ficheiro contém o artigo que passou a ter esse número.
+Cada ato é uma pasta, com um ficheiro por artigo e um `preambulo.md`: `leis/2023/013-lei-do-trabalho/art-108.md` é o artigo 108 (Duração do período de férias) da Lei do Trabalho, e os artigos do próprio decreto-lei são `codigos/codigo-comercial/dl-art-NNN.md`. A revisão de 2018 renumerou a maior parte dos artigos da Constituição a partir do artigo 140, pelo que, a partir de 12 de junho de 2018, cada ficheiro contém o artigo que passou a ter esse número.
 
 O texto está em português, tal como as edições da Assembleia da República e o Boletim da República o publicam. Não faz parte deste registo nenhuma tradução inglesa.
 
@@ -21,10 +21,10 @@ O texto está em português, tal como as edições da Assembleia da República e
 
 | Pergunta | Comando |
 | --- | --- |
-| Todas as alterações ao artigo 108 da Lei do Trabalho (férias) | `git log -p --word-diff -- lei-do-trabalho/art-108.md` |
-| Que ato escreveu cada parágrafo do artigo 108? | `git blame lei-do-trabalho/art-108.md` |
-| Todas as versões do artigo 108, com o dia em que cada uma entrou em vigor | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- lei-do-trabalho/art-108.md` |
-| O artigo 108 em vigor em 1 de janeiro de 2025 | `python tools/on.py 2025-01-01 lei-do-trabalho 108` |
+| Todas as alterações ao artigo 108 da Lei do Trabalho (férias) | `git log -p --word-diff -- leis/2023/013-lei-do-trabalho/art-108.md` |
+| Que ato escreveu cada parágrafo do artigo 108? | `git blame leis/2023/013-lei-do-trabalho/art-108.md` |
+| Todas as versões do artigo 108, com o dia em que cada uma entrou em vigor | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- leis/2023/013-lei-do-trabalho/art-108.md` |
+| O artigo 108 em vigor em 1 de janeiro de 2025 | `python tools/on.py 2025-01-01 leis/2023/013-lei-do-trabalho 108` |
 
 **Fora do git**, também disponibilizamos este registo publicamente e de forma gratuita:
 
@@ -40,7 +40,7 @@ Ambos os assistentes leem o registo através do conector gratuito Global law (MC
 ```sh
 git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
 python3 tools/countries.py add mozambique/national/acts
-python3 tools/law.py show 2026-01-01 mozambique/national/acts/lei-do-trabalho/art-108.md
+python3 tools/law.py show 2026-01-01 mozambique/national/acts/leis/2023/013-lei-do-trabalho/art-108.md
 ```
 
 Aberto no Claude Code, no Cursor, no VS Code ou no Codex, o clone inicia também um servidor MCP local com as mesmas ferramentas ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
@@ -66,7 +66,7 @@ A primeira versão da Constituição é atribuída à Constituição tal como ap
 
 - **A revisão de 2023 do n.º 3 do artigo 311** (eleições distritais; aprovada em 3 de agosto de 2023, promulgada em 4 de agosto de 2023): não foi encontrado o número da lei, o número do Boletim da República nem uma cópia com camada de texto, pelo que `constituicao/art-311.md` continua a dizer "têm lugar no ano de 2024", o que já não é o direito em vigor.
 - **Alterações posteriores aos dois códigos.** O Código Comercial e a Lei do Trabalho são os textos tal como aprovados; nenhuma alteração está aplicada.
-- **Nenhum outro ato, por enquanto**, como o Código Penal (Lei n.º 24/2019), o Código de Processo Penal ou o Código Civil.
+- **Os atos ainda não recolhidos**: os que só existem em digitalizações sem camada de texto (não fazemos OCR), os que não têm norma de entrada em vigor datável e o Código Civil (não há texto moçambicano consolidado com camada de texto); a lista está em STRUCTURE.md.
 - **Epígrafes e fórmulas.** As epígrafes dos títulos, capítulos e secções e as fórmulas finais de aprovação e assinatura não são ficheiros; cada ficheiro de artigo começa com o seu número e epígrafe.
 - **Textos publicados apenas como digitalizações**, como a republicação oficial de 2018 (Boletim da República, I Série n.º 115, 2.º suplemento); a Lei n.º 26/2007, de uma página, é a única digitalização lida.
 

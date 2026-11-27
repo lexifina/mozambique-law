@@ -29,3 +29,18 @@ dedicated to the public domain under CC0 1.0 Universal:
 https://creativecommons.org/publicdomain/zero/1.0/legalcode
 
 The 2007 Constitution amendment comes from Lei n.º 26/2007 in the official Boletim da República, I Série n.º 46, suplemento, 16 November 2007, published by the Conselho Constitucional at https://cconstitucional.org.mz/wp-content/uploads/2023/12/Lei26-2007de16deNovembroalteraoartigo304daConstituicaodaRepublica.pdf, retrieved 3 November 2026. Its replacement article is OCR-derived and verified against the full official page.
+
+From 27 November 2026 the repository also holds acts read from these copies of the Boletim da República
+(each commit names its source in a Source: trailer, and Source-status: says whether the copy is official or secondary):
+
+  FAOLEX database (Food and Agriculture Organization of the United Nations), https://faolex.fao.org: PDF copies of
+  the Boletim da República. FAO's terms allow reproduction for non-commercial purposes with acknowledgement of FAO
+  as the source (https://www.fao.org/contact-us/terms/en/); the legal texts themselves are official texts.
+  Assembleia da República (https://www.parlamento.mz) and Conselho Constitucional (https://cconstitucional.org.mz):
+  PDFs of laws and resolutions they publish; no licence stated.
+  Reformar - Research for Mozambique (https://reformar.co.mz): copies of the Boletim da República issues of the 2019
+  Código Penal, Código de Processo Penal, Código de Execução das Penas and Lei da Família; no licence stated.
+
+All of them are official legislative texts, unprotected under Lei n.º 9/2022, art. 7(1)(a). Text taken from a PDF's
+own OCR layer (scans) is marked "Text-source: publisher OCR"; Lexifina did no OCR. None of these publishers endorses
+this repository.
