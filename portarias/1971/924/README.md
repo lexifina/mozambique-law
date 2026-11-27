@@ -3,7 +3,7 @@
 Título no FAOLEX (inglês): Order No. 924/71 establishing the annual pause in tobacco cultivation.
 
 - Publicação: Boletim da República n.º 138 de 1971-11-23
-- Entrada em vigor (data dos commits): 1972-01-01 (its own clause: "entra em vigor a partir do dia 1 de janeiro de 1972. cumpra-se. residencia do governo-geral de m~ambique, aos 23 de nove")
+- Entrada em vigor (data dos commits): 1972-01-01 (its own clause: "entra em vigor a partir do dia 1 de Janeiro de 1972.")
 - Fonte: <https://faolex.fao.org/docs/pdf/moz21535.pdf> (FAOLEX; cópia secundária; texto: publisher OCR)
 - Registo: <https://faolex.fao.org/en/documents/LEX-FAOC021535/order-no-924-71-establishing-the-annual-pause-in-tobacco-cul-moz-1971>
 - O texto vem da camada de OCR do próprio PDF publicado (não fizemos OCR); pode conter erros de leitura. Em caso de dúvida, consulte o Boletim da República.
