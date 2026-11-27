@@ -10,9 +10,9 @@ Título no FAOLEX (inglês): Law No. 21/97 concerning production, transport, sup
 
 | Ficheiro | Disposição |
 | --- | --- |
-| [art-001.md](art-001.md) | Artigo 1.º ((Papel do Estado)) |
-| [art-002.md](art-002.md) | Artigo 2.º ((Politi(8 de organiza~ e gestio)) |
-| [art-003.md](art-003.md) | Artigo 3.º ((Competencia do CNELEC)) |
-| [art-004.md](art-004.md) | Artigo 4.º ((Exigencia de concessao)) |
+| [art-001.md](art-001.md) | Artigo 1.º (Papel do Estado) |
+| [art-002.md](art-002.md) | Artigo 2.º (Politi(8 de organiza~ e gestio) |
+| [art-003.md](art-003.md) | Artigo 3.º (Competencia do CNELEC) |
+| [art-004.md](art-004.md) | Artigo 4.º (Exigencia de concessao) |
 | [formula-final.md](formula-final.md) | Aprovação, promulgação e assinaturas |
 | [preambulo.md](preambulo.md) | Preâmbulo |
