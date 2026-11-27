@@ -3,7 +3,7 @@
 Título no FAOLEX (inglês): Ministerial Decision No. 95/91 approving the Regulation on seed importation.
 
 - Publicação: Boletim da República n.º 32 de 1991-08-07
-- Entrada em vigor (data dos commits): 1991-08-07 (its own clause: "entra em vigor na data da publicacao do diploma ministerial que 0 aprova. anexo i especlflc890es requerldas na"; published 1991-08-07)
+- Entrada em vigor (data dos commits): 1991-08-07 (its own clause: "entra em vigor na data da publicacao do Diploma Ministerial que 0 aprova."; published 1991-08-07)
 - Fonte: <https://faolex.fao.org/docs/pdf/moz20514.pdf> (FAOLEX; cópia secundária; texto: publisher OCR)
 - Registo: <https://faolex.fao.org/en/documents/LEX-FAOC020514/ministerial-decision-no-95-91-approving-the-regulation-on-se-moz-1991>
 - O texto vem da camada de OCR do próprio PDF publicado (não fizemos OCR); pode conter erros de leitura. Em caso de dúvida, consulte o Boletim da República.
