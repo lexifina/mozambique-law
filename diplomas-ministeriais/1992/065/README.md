@@ -3,7 +3,7 @@
 Título no FAOLEX (inglês): Ministerial Decision No. 65/92 establishing tariffs for potable water use.
 
 - Publicação: Boletim da República n.º 21 de 1992-05-20
-- Entrada em vigor (data dos commits): 1992-05-01 (its own clause: "entra em vigor a 1 de maio de 1992. ministerio da construcao e aguas, em maputo, 24 de abril de 1992. - 0 ministro da co")
+- Entrada em vigor (data dos commits): 1992-05-01 (its own clause: "entra em vigor a 1 de Maio de 1992.")
 - Fonte: <https://faolex.fao.org/docs/pdf/moz21478.pdf> (FAOLEX; cópia secundária; texto: publisher OCR)
 - Registo: <https://faolex.fao.org/en/documents/LEX-FAOC021478/ministerial-decision-no-65-92-establishing-tariffs-for-potab-moz-1992>
 - O texto vem da camada de OCR do próprio PDF publicado (não fizemos OCR); pode conter erros de leitura. Em caso de dúvida, consulte o Boletim da República.
