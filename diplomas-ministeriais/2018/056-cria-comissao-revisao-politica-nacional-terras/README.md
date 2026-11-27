@@ -3,7 +3,7 @@
 Título no FAOLEX (inglês): Ministerial Order No. 56/2018 creating the National Land Policy Review Committee.
 
 - Publicação: Boletim da República n.º 115 de 2018-06-12
-- Entrada em vigor (data dos commits): 2018-06-12 (its own clause: "entra em vigor na data da sua publicacao. maputo, aos 30 de abril de 2018. — o ministro da terra, ambiente e d"; published 2018-06-12)
+- Entrada em vigor (data dos commits): 2018-06-12 (its own clause: "entra em vigor na data da sua publicação."; published 2018-06-12)
 - Fonte: <https://faolex.fao.org/docs/pdf/moz213902.pdf> (FAOLEX; cópia secundária; texto: publisher PDF text layer)
 - Registo: <https://faolex.fao.org/en/documents/LEX-FAOC213902/ministerial-order-no-56-2018-creating-the-national-land-poli-moz-2018>
 
