@@ -2,7 +2,7 @@
 
 Título no FAOLEX (inglês): Law No. 16/92 on the activities of sworn surveyors.
 
-- Publicação: Boletim da República n.º 42 de 1992-10-14
+- Publicação: Boletim da República de 1992-10-14
 - Entrada em vigor (data dos commits): 1993-01-12 (FAOLEX: "This Law enters into force 90 days after publication."; published 1992-10-14, 90 days counted from it)
 - Fonte: <https://faolex.fao.org/docs/pdf/moz53381.pdf> (FAOLEX; cópia secundária; texto: publisher OCR)
 - Registo: <https://faolex.fao.org/en/documents/LEX-FAOC053381/law-no-16-92-on-the-activities-of-sworn-surveyors-moz-1992>
