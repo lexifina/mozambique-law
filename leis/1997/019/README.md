@@ -11,16 +11,16 @@ Título no FAOLEX (inglês): Land Act (No. 19/97).
 
 | Ficheiro | Disposição |
 | --- | --- |
-| [art-002.md](art-002.md) | Artigo 2.º ((Ambito)) |
-| [art-003.md](art-003.md) | Artigo 3.º ((Prindpio geral)) |
-| [art-004.md](art-004.md) | Artigo 4.º ((Fundo Estatal de Terras)) |
-| [art-005.md](art-005.md) | Artigo 5.º ((Cadastro Nacional de Terras)) |
-| [art-006.md](art-006.md) | Artigo 6.º ((Dominio publico)) |
-| [art-007.md](art-007.md) | Artigo 7.º ((Zonas de protec~io total)) |
-| [art-008.md](art-008.md) | Artigo 8.º ((Zonas de protec~io parcial)) |
-| [art-009.md](art-009.md) | Artigo 9.º ((Licen~especials para 0 exercicio de actividades nas) |
-| [art-010.md](art-010.md) | Artigo 10.º ((Sujeitos nacionais)) |
-| [art-011.md](art-011.md) | Artigo 11.º ((Suje'tos estrangeiros)) |
-| [art-012.md](art-012.md) | Artigo 12.º ((Aq~)") |
+| [art-002.md](art-002.md) | Artigo 2.º (Ambito) |
+| [art-003.md](art-003.md) | Artigo 3.º (Prindpio geral) |
+| [art-004.md](art-004.md) | Artigo 4.º (Fundo Estatal de Terras) |
+| [art-005.md](art-005.md) | Artigo 5.º (Cadastro Nacional de Terras) |
+| [art-006.md](art-006.md) | Artigo 6.º (Dominio publico) |
+| [art-007.md](art-007.md) | Artigo 7.º (Zonas de protec~io total) |
+| [art-008.md](art-008.md) | Artigo 8.º (Zonas de protec~io parcial) |
+| [art-009.md](art-009.md) | Artigo 9.º (Licen~especials para 0 exercicio de actividades nas |
+| [art-010.md](art-010.md) | Artigo 10.º (Sujeitos nacionais) |
+| [art-011.md](art-011.md) | Artigo 11.º (Suje'tos estrangeiros) |
+| [art-012.md](art-012.md) | Artigo 12.º (Aq~)" |
 | [art-013.md](art-013.md) | Artigo 13.º |
 | [preambulo.md](preambulo.md) | Preâmbulo |
