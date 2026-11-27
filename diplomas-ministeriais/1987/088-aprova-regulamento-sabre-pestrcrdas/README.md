@@ -3,7 +3,7 @@
 Título no FAOLEX (inglês): Ministerial Order No. 88/87 approving the Regulation on pesticides.
 
 - Publicação: Boletim da República n.º 30 de 1987-07-29
-- Entrada em vigor (data dos commits): 1987-07-28 (its own clause: "entra em vigor a partir de i de agosto de 1987. ministerio da construcao e aguas, em maputo. 28 de julho de 1987.- 0 min")
+- Entrada em vigor: 1987-08-01 (its own clause, in the publisher OCR layer: "entra em vigor a partir de i de Agosto de 1987" ("i" read as 1)). O commit original (a1018cd) tem a data errada de 1987-07-28; ver o commit de correção.
 - Fonte: <https://faolex.fao.org/docs/pdf/moz21850.pdf> (FAOLEX; cópia secundária; texto: publisher OCR)
 - Registo: <https://faolex.fao.org/en/documents/LEX-FAOC021850/ministerial-order-no-88-87-approving-the-regulation-on-pesti-moz-1987>
 - Artigos não encontrados na camada de texto: 2, 3
