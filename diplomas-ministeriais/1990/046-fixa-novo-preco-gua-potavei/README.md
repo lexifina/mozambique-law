@@ -3,7 +3,7 @@
 Título no FAOLEX (inglês): Ministerial Decision No. 46/90 establishing tariffs for potable water use.
 
 - Publicação: Boletim da República n.º 20 de 1990-05-16
-- Entrada em vigor (data dos commits): 1990-01-26 (its own clause: "entra em vigor a ide feve- reirode 1990. ' ,ministerio da construcso e aguas, em maputo, 26 de janeiro de 1990. - 0 mini")
+- Entrada em vigor: 1990-02-01 (its own clause, in the publisher OCR layer: "entra em vigor a Ide Feve- reirode 1990" (read as 1 de Fevereiro de 1990)). O commit original (13afef2) tem a data errada de 1990-01-26; ver o commit de correção.
 - Fonte: <https://faolex.fao.org/docs/pdf/moz20482.pdf> (FAOLEX; cópia secundária; texto: publisher OCR)
 - Registo: <https://faolex.fao.org/en/documents/LEX-FAOC020482/ministerial-decision-no-46-90-establishing-tariffs-for-potab-moz-1990>
 - Artigos não encontrados na camada de texto: 2, 4
