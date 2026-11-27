@@ -1,7 +1,7 @@
 # Resolução n.º 41/2019
 
 - Publicação: Boletim da República n.º 252 de 2019-12-31
-- Entrada em vigor (data dos commits): 2019-12-31 (its own clause: "entra em vigor na data da sua publicacao. aprovada pela comissao interministerial da reforma da administracao "; published 2019-12-31)
+- Entrada em vigor (data dos commits): 2019-12-31 (its own clause: "entra em vigor na data da sua publicação."; published 2019-12-31)
 - Fonte: <https://cconstitucional.org.mz/wp-content/uploads/2026/08/Resolucao-no412019-de-31-de-Dezembro-de-2019.pdf> (Conselho Constitucional; fonte oficial; texto: publisher OCR)
 - O texto vem da camada de OCR do próprio PDF publicado (não fizemos OCR); pode conter erros de leitura. Em caso de dúvida, consulte o Boletim da República.
 
