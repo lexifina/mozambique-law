@@ -3,7 +3,7 @@
 Título no FAOLEX (inglês): Ministerial Decision No. 41/91 establishing tariffs for potable water use.
 
 - Publicação: Boletim da República n.º 20 de 1991-05-15
-- Entrada em vigor (data dos commits): 1991-05-01 (its own clause: "entra em vigor a 1 de maio de 1991. ministerio da construcao e aguas, em maputo, 24 de abril de 1991. - 0 ministro da co")
+- Entrada em vigor (data dos commits): 1991-05-01 (its own clause: "entra em vigor a 1 de Maio de 1991.")
 - Fonte: <https://faolex.fao.org/docs/pdf/moz20513.pdf> (FAOLEX; cópia secundária; texto: publisher OCR)
 - Registo: <https://faolex.fao.org/en/documents/LEX-FAOC020513/ministerial-decision-no-41-91-establishing-tariffs-for-potab-moz-1991>
 - O texto vem da camada de OCR do próprio PDF publicado (não fizemos OCR); pode conter erros de leitura. Em caso de dúvida, consulte o Boletim da República.
