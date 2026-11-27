@@ -1,12 +1,8 @@
-# Lei n.º 10/2024 — Concernente a protecção e o respeito dos direitos e liberdades fundamentais da pessoa com deficiência, com impedimento permanente de natureza física, mental e sensorial e revoga
+# Lei n.º 10/2024 — Concernente a protecção e o respeito dos direitos e liberdades fundamentais da pessoa com deficiência, com impedimento permanente de natureza física, mental e sensorial e revoga toda a legislação que contrarie a presente Lei
 
-Título no FAOLEX (inglês): Law No. 10/2024 on the protection and fulfilment of the fundamental rights and freedoms of people with disabilities and permanent physical, mental and sensory impairments.
-
-- Publicação: Boletim da República n.º 111 de 2024-06-07
+- Publicação: Boletim da República de 2024-06-07
 - Entrada em vigor (data dos commits): 2024-10-05 (its own clause: "entra em vigor 120 dias após a data da sua publicação."; published 2024-06-07, 120 days counted from it)
-- Fonte: <https://faolex.fao.org/docs/pdf/moz228091.pdf> (FAOLEX; cópia secundária; texto: publisher OCR)
-- Registo: <https://faolex.fao.org/en/documents/LEX-FAOC228091/law-no-10-2024-on-the-protection-and-fulfilment-of-the-funda-moz-2024>
-- O texto vem da camada de OCR do próprio PDF publicado (não fizemos OCR); pode conter erros de leitura. Em caso de dúvida, consulte o Boletim da República.
+- Fonte: <https://reformar.co.mz/documentos-diversos/lei-n-o-10-2024.pdf/@@download/file> (Reformar – Research for Mozambique, copy of the Boletim da República; cópia secundária; texto: publisher PDF text layer)
 
 | Ficheiro | Disposição |
 | --- | --- |
