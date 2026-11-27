@@ -3,7 +3,7 @@
 Título no FAOLEX (inglês): Decree No. 57/2008 approving the Regulation on Inland Fisheries.
 
 - Publicação: Boletim da República n.º 52 de 2008-12-30
-- Entrada em vigor (data dos commits): 2009-03-30 (its own clause: "entra em vigor noventa (90) dias apos a sua publicacao. aprovado pelo conselho de ministros, aos 9 de dezembro"; published 2008-12-30, 90 days counted from it)
+- Entrada em vigor (data dos commits): 2009-03-30 (its own clause: "entra em vigor noventa (90) dias após a sua publicação."; published 2008-12-30, 90 days counted from it)
 - Fonte: <https://faolex.fao.org/docs/pdf/moz111905.pdf> (FAOLEX; cópia secundária; texto: publisher PDF text layer)
 - Registo: <https://faolex.fao.org/en/documents/LEX-FAOC111905/decree-no-57-2008-approving-the-regulation-on-inland-fisheri-moz-2008>
 
